@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+BoringSSL,repo,README.md,.,1,https://github.com/google/private-retrieval/blob/592a26f0eb69e6402fd9c6fa053d3c4754160e82/README.md,https://github.com/google/private-retrieval/blob/592a26f0eb69e6402fd9c6fa053d3c4754160e82/WORKSPACE.bazel#L75
+PIR,repo,README.md,.,97,https://github.com/google/private-retrieval/blob/592a26f0eb69e6402fd9c6fa053d3c4754160e82/README.md,https://github.com/google/private-retrieval/blob/592a26f0eb69e6402fd9c6fa053d3c4754160e82/private_retrieval/java/proto/private_retrieval_log.proto#L2

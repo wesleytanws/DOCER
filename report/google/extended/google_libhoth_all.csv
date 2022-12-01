@@ -1,0 +1,13 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+CERTAIN,repo,README.md,1,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool.c#L358
+RoTs,repo,README.md,1,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool.c#L284
+SPI,repo,README.md,9,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_spi.c#L83
+TX,repo,README.md,2,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_console.c#L192
+UART,repo,README.md,2,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_console.c#L192
+USB,repo,README.md,4,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/meson.build#L10
+ec_get_version,repo,README.md,1,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool.c#L295
+ec_reboot,repo,README.md,1,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool.c#L289
+force_drive_tx,repo,README.md,5,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_console.h#L25
+kB,repo,README.md,1,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_progress.c#L66
+usb_loc,repo,README.md,21,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_usb.c#L63
+usb_product,repo,README.md,2,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/README.md,https://github.com/google/libhoth/blob/b31307b7bf525efda0164e461fb1e0a5c302d306/examples/htool_usb.c#L292

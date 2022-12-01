@@ -1,0 +1,6 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+API,repo,README.md,4,4,8,8,8,8,8,https://github.com/google/vmregistry/blob/9b415ade7b7cb23bd08b404ebfabb56b15d65386/README.md,https://github.com/google/vmregistry/blob/5eb4066d732ff8fe4257275db04eb7a0bf6ff439/server/server.go#L77
+GRPC,repo,README.md,3,3,6,6,6,6,6,https://github.com/google/vmregistry/blob/9b415ade7b7cb23bd08b404ebfabb56b15d65386/README.md,https://github.com/google/vmregistry/blob/5eb4066d732ff8fe4257275db04eb7a0bf6ff439/server/server.go#L56
+VM,repo,README.md,25,25,35,35,35,35,35,https://github.com/google/vmregistry/blob/9b415ade7b7cb23bd08b404ebfabb56b15d65386/README.md,https://github.com/google/vmregistry/blob/5eb4066d732ff8fe4257275db04eb7a0bf6ff439/server/server.go#L85
+VMRegistry,repo,README.md,8,8,14,14,14,14,14,https://github.com/google/vmregistry/blob/9b415ade7b7cb23bd08b404ebfabb56b15d65386/README.md,https://github.com/google/vmregistry/blob/5eb4066d732ff8fe4257275db04eb7a0bf6ff439/server/server.go#L47
+proto/vmregistry.proto,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/vmregistry/blob/9b415ade7b7cb23bd08b404ebfabb56b15d65386/README.md,https://github.com/google/vmregistry/blob/5eb4066d732ff8fe4257275db04eb7a0bf6ff439/Makefile#L1

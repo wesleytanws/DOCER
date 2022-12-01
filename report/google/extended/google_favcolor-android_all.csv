@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+AmbilWarna,repo,README.md,1,1,https://github.com/google/favcolor-android/blob/5f62efcf53edf7d28ea62318f6669739ca8a0b73/README.md,https://github.com/google/favcolor-android/blob/39ef82df758acf088f3a1e67de85dec57433673e/.classpath#L7
+FC,repo,README.md,1,1,https://github.com/google/favcolor-android/blob/5f62efcf53edf7d28ea62318f6669739ca8a0b73/README.md,https://github.com/google/favcolor-android/blob/39ef82df758acf088f3a1e67de85dec57433673e/res/values/strings.xml#L4
+FavColor,repo,README.md,5,5,https://github.com/google/favcolor-android/blob/5f62efcf53edf7d28ea62318f6669739ca8a0b73/README.md,https://github.com/google/favcolor-android/blob/39ef82df758acf088f3a1e67de85dec57433673e/src/com/textuality/favcolor4/GKMain.java#L36
+GitKit,repo,README.md,1,1,https://github.com/google/favcolor-android/blob/5f62efcf53edf7d28ea62318f6669739ca8a0b73/README.md,https://github.com/google/favcolor-android/blob/39ef82df758acf088f3a1e67de85dec57433673e/res/values/strings.xml#L4

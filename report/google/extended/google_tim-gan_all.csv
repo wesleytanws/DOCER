@@ -1,0 +1,10 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,doc_link,source_link
+GPU,repo,README.md,7,7,7,7,7,7,7,7,7,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/train_recon.py#L52
+models/networks.py,repo,README.md,1,1,1,1,1,0,0,0,0,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,code_element is a file name
+models/tim_gan.py,repo,README.md,1,1,1,1,1,1,1,1,1,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,code_element is a file name
+run_pretrain.sh,repo,README.md,1,1,1,1,1,1,1,1,1,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,code_element is a file name
+run_test.sh,repo,README.md,1,1,1,1,1,1,1,1,1,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,code_element is a file name
+run_train.sh,repo,README.md,1,1,1,1,1,1,1,1,1,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,code_element is a file name
+test.py,repo,README.md,2,2,2,2,2,2,2,2,2,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/run_test.sh#L39
+train.py,repo,README.md,2,2,2,2,2,2,2,2,2,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/run_train.sh#L43
+train_recon.py,repo,README.md,2,2,2,2,2,2,2,2,2,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/README.md,https://github.com/google/tim-gan/blob/0139ad452b3c74e3c12791ebb719ea5979eb0d1f/run_pretrain.sh#L35

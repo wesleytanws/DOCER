@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+master,repo,README.md,7,7,ffdf145bbdf917d54a3ef4951fc2655e35847ff0,1613613298,ffdf145bbdf917d54a3ef4951fc2655e35847ff0,1613613298,ffdf145bbdf917d54a3ef4951fc2655e35847ff0,1613613298,https://github.com/google/ormolu/blob/ffdf145bbdf917d54a3ef4951fc2655e35847ff0/README.md,https://github.com/google/ormolu/blob/ffdf145bbdf917d54a3ef4951fc2655e35847ff0/data/examples/declaration/type/visible-forall.hs#L1

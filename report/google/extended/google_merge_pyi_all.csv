@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,rev_14,doc_link,source_link
+PEP484,repo,README.md,5,5,4,4,5,5,5,5,5,5,5,5,5,5,https://github.com/google/merge_pyi/blob/4c769045fe67c3a5f6ae6c0f461c56323ab40143/README.md,https://github.com/google/merge_pyi/blob/1dd08c00660eb45e7ddf892674cb4bedaaaa00a5/merge_pyi.py#L44
+merge_pyi,repo,README.md,5,5,4,4,4,4,4,4,4,4,4,4,4,4,https://github.com/google/merge_pyi/blob/4c769045fe67c3a5f6ae6c0f461c56323ab40143/README.md,https://github.com/google/merge_pyi/blob/1dd08c00660eb45e7ddf892674cb4bedaaaa00a5/test_merge_pyi.py#L9

@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+WebSocket,repo,README.md,83,85,2f25f7843d3d0e4889e5e008dcbdd77fec378deb,1641260950,78cf1bc733a927f673fd1988a25256b425552a8a,1650200477,2f25f7843d3d0e4889e5e008dcbdd77fec378deb,1641260950,https://github.com/gorilla/websocket/blob/2f25f7843d3d0e4889e5e008dcbdd77fec378deb/README.md,https://github.com/gorilla/websocket/blob/78cf1bc733a927f673fd1988a25256b425552a8a/util_test.go#L1

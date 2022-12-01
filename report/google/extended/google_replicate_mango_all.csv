@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,doc_link,source_link
+BigQuery,repo,README.md,-,3,3,3,3,3,3,3,3,3,3,3,https://github.com/google/replicate_mango/blob/9e381525a76153969f736bc32c21b334a09183ef/README.md,https://github.com/google/replicate_mango/blob/4ce9352ad2f047879c366ea3f2bf7de8d25aa4e4/03_price_benchmark.sql#L26
+LLC,repo,README.md,-,3,3,3,3,3,3,3,3,3,3,3,https://github.com/google/replicate_mango/blob/9e381525a76153969f736bc32c21b334a09183ef/README.md,https://github.com/google/replicate_mango/blob/4ce9352ad2f047879c366ea3f2bf7de8d25aa4e4/03_price_benchmark.sql#L1
+MANGO,repo,README.md,-,6,6,6,6,-,-,-,-,-,-,-,https://github.com/google/replicate_mango/blob/9e381525a76153969f736bc32c21b334a09183ef/README.md,https://github.com/google/replicate_mango/blob/33a66f7f7696d8c1ae6f630cea84694847c8fb94/03_price_benchmark.sql#L17

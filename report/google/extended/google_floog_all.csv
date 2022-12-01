@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,rev_14,rev_15,rev_16,rev_17,rev_18,doc_link,source_link
+SQLite,repo,README.md,.,.,.,.,.,.,.,.,.,.,.,5,5,5,5,5,5,5,https://github.com/google/floog/blob/e5ee52ccfa9caa669a835917c61a242e8393a26d/README.md,https://github.com/google/floog/blob/e5ee52ccfa9caa669a835917c61a242e8393a26d/migrations/2018-12-02-094904_create_photo_data/up.sql#L18

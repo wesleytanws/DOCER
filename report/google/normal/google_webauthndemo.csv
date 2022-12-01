@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+WebAuthn,repo,README.md,7,7,ff3b65d97cb851734300ec7555c28f1effb01649,1646636860,50f142ccd6370ee4b7b5a343b57af616cd9bc252,1652154653,ff3b65d97cb851734300ec7555c28f1effb01649,1646636860,https://github.com/google/webauthndemo/blob/ff3b65d97cb851734300ec7555c28f1effb01649/README.md,https://github.com/google/webauthndemo/blob/50f142ccd6370ee4b7b5a343b57af616cd9bc252/src/templates/partials/top-app-bar.html#L3

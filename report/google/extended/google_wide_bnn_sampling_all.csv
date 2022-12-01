@@ -1,0 +1,18 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+BNN,repo,README.md,6,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/reparametrisation.py#L22
+CONTRIBUTING.md,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+HMC,repo,README.md,5,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/samplers.py#L87
+LICENSE,repo,README.md,13,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/utils.py#L7
+LMC,repo,README.md,5,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/samplers.py#L87
+config.py,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+datasets.py,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+float32,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/datasets.py#L28
+main.py,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+measurements.py,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+models.py,repo,README.md,3,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/config.py#L44
+reparametrisation.py,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+samplers.py,repo,README.md,7,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/main.py#L72
+setup.py,repo,README.md,1,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,code_element is a file name
+store_dir,repo,README.md,12,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/measurements.py#L23
+utils.py,repo,README.md,2,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/main.py#L155
+wide_bnn_sampling,repo,README.md,13,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/README.md,https://github.com/google/wide_bnn_sampling/blob/c8e24b3914cdd92c6f99d4c00c51fed511515ef2/wide_bnn_sampling/measurements.py#L17

@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+LICENSE,repo,README.md,3,https://github.com/google/arc-regex-line-length-linter/blob/2afca04479164913dfd8ff32b07a812624af6ab3/README.md,https://github.com/google/arc-regex-line-length-linter/blob/2afca04479164913dfd8ff32b07a812624af6ab3/lint/linter/LineLengthLinter.php#L9
+arc,repo,README.md,1,https://github.com/google/arc-regex-line-length-linter/blob/2afca04479164913dfd8ff32b07a812624af6ab3/README.md,https://github.com/google/arc-regex-line-length-linter/blob/2afca04479164913dfd8ff32b07a812624af6ab3/__phutil_library_map__.php#L4
+max-line-length,repo,README.md,2,https://github.com/google/arc-regex-line-length-linter/blob/2afca04479164913dfd8ff32b07a812624af6ab3/README.md,https://github.com/google/arc-regex-line-length-linter/blob/2afca04479164913dfd8ff32b07a812624af6ab3/lint/linter/LineLengthLinter.php#L41

@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+sticky_element_directive,repo,README.md,2,2,2,https://github.com/google/angular-sticky-element/blob/67fd6a808b7e89536e190d77154852bb97e3fce1/README.md,https://github.com/google/angular-sticky-element/blob/773c7851282409d3a52d80778cfef905fc171f50/examples/sticky-table-head/src/sticky-thead-top/sticky_thead_top.directive.ts#L20

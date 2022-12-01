@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+API,repo,README.md,3,4,d7472cbd1afe6bf3da53e94971b1cc79ce183fa8,1592841831,7bfe4a2888f6a71f957cb2c531c0fd4156aa9aa7,1606938048,d7472cbd1afe6bf3da53e94971b1cc79ce183fa8,1592841831,https://github.com/google/reftable/blob/d7472cbd1afe6bf3da53e94971b1cc79ce183fa8/README.md,https://github.com/google/reftable/blob/7bfe4a2888f6a71f957cb2c531c0fd4156aa9aa7/c/include/reftable-generic.h#L17

@@ -1,0 +1,7 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+config.json,repo,README.md,0,0,2,2,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/README.md,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/main.py#L20
+credentials.json,repo,README.md,0,0,2,2,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/README.md,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/main.py#L19
+main.py,repo,README.md,0,0,1,1,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/README.md,code_element is a file name
+reader,repo,README.md,0,0,2,2,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/README.md,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/config.json#L10
+requirements.txt,repo,README.md,0,0,1,1,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/README.md,code_element is a file name
+writer,repo,README.md,0,0,3,3,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/README.md,https://github.com/google/image-supplemental-feed-creator/blob/fa03ac583c8725de8c1764b8d54375eb32760160/config.json#L6

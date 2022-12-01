@@ -1,0 +1,9 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+BoringSSL,repo,README.md,4,4,4,4,4,4,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/third_party/ssl.cmake#L20
+EMSDK,repo,README.md,0,0,0,0,27,27,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/Dockerfile#L9
+IBM,repo,README.md,680,680,680,680,680,680,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/third_party/ibmswtpm2/src/swap.h#L5
+JS,repo,README.md,8,8,8,8,8,8,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/third_party/ibmswtpm2/src/TpmBuildSwitches.h#L216
+PATH,repo,README.md,0,0,0,0,5,5,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/Dockerfile#L60
+SDK,repo,README.md,0,0,0,0,1,1,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/Dockerfile#L47
+TPM,repo,README.md,573,573,573,584,584,584,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/third_party/ibmswtpm2/src/VendorString.h#L81
+TSS,repo,README.md,9,9,9,9,9,9,https://github.com/google/tpm-js/blob/77d7b801abe7ad8e9749747e2e01aef4fc228da0/README.md,https://github.com/google/tpm-js/blob/4b5913136a6b2dec12f846272a5de69570f018a3/third_party/ibmswtpm2/src/Unmarshal.c#L44

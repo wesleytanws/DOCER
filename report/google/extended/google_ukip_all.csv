@@ -1,0 +1,17 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+/etc/ukip/,repo,README.md,2,2,2,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/setup.sh#L79
+50000,repo,README.md,2,2,2,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip.py#L63
+ABNORMAL_TYPING,repo,README.md,7,7,7,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip.py#L63
+DEBIAN,repo,README.md,2,2,2,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/setup.sh#L23
+HARDENING,repo,README.md,12,12,12,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L195
+ID,repo,README.md,14,14,14,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L78
+KEYSTROKE_WINDOW,repo,README.md,21,21,21,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L113
+MONITOR,repo,README.md,13,13,13,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L109
+RUN_MODE,repo,README.md,2,2,2,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/setup.sh#L20
+UKIP,repo,README.md,37,-,-,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/c6a870eb53985e48c0ef4624553c5876231fb9b7/src/ukip_test.py#L326
+USB,repo,README.md,19,19,19,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L800
+any,repo,README.md,38,38,38,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L596
+data/allowlist,repo,README.md,2,2,2,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/setup.sh#L81
+data/keycodes,repo,README.md,2,2,2,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/setup.sh#L85
+none,repo,README.md,12,12,12,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,https://github.com/google/ukip/blob/097c093f4aacf538d47d88a2d1fbcfde35a86379/src/ukip_test.py#L596
+setup.sh,repo,README.md,1,1,1,https://github.com/google/ukip/blob/78509834b2df6635dd13378dd748c10a7ba94e0b/README.md,code_element is a file name

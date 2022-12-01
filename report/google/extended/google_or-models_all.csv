@@ -1,0 +1,14 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+ANY,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L147
+AS,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L146
+AUTHORS,repo,README.md,1,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,code_element is a file name
+BASIS,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L146
+CONDITIONS,repo,README.md,4,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L6
+GitHub,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/docs/contributing.md#L21
+IS,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L146
+KIND,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L147
+LICENSE,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L196
+OF,repo,README.md,3,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L147
+OR,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L147
+WARRANTIES,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L147
+WITHOUT,repo,README.md,2,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/README.md,https://github.com/google/or-models/blob/438b1e79d3e618171134c918cd67dd596ecaa339/LICENSE#L147

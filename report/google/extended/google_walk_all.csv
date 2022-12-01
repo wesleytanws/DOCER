@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,doc_link,source_link
+find,repo,README.md,2,2,2,2,2,2,2,2,2,2,2,2,https://github.com/google/walk/blob/d560d7ec4bf87a9f9dd2f7135489b26db5f9fb4b/README.md,https://github.com/google/walk/blob/70f7a8c104acf109ae810a9b34eb8e8b92b4d27d/walk.1#L52
+sor,repo,README.md,5,8,8,8,8,8,8,8,8,8,8,8,https://github.com/google/walk/blob/d560d7ec4bf87a9f9dd2f7135489b26db5f9fb4b/README.md,https://github.com/google/walk/blob/70f7a8c104acf109ae810a9b34eb8e8b92b4d27d/walk.1#L53
+walk,repo,README.md,13,16,18,18,18,18,18,18,18,18,18,18,https://github.com/google/walk/blob/d560d7ec4bf87a9f9dd2f7135489b26db5f9fb4b/README.md,https://github.com/google/walk/blob/70f7a8c104acf109ae810a9b34eb8e8b92b4d27d/walk.c#L24

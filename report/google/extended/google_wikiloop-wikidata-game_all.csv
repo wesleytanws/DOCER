@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+API,repo,README.md,6,6,6,6,https://github.com/google/wikiloop-wikidata-game/blob/93aa0db8edc1ff8822a855251607f9adb907356f/README.md,https://github.com/google/wikiloop-wikidata-game/blob/8efaa0ddbd50f98b0ed0895d6b5d5e33d0681d3d/wikiloop_game_missing_place_of_birth/index.js#L166
+env.SQL_PASSWORD,repo,README.md,3,3,3,3,https://github.com/google/wikiloop-wikidata-game/blob/93aa0db8edc1ff8822a855251607f9adb907356f/README.md,https://github.com/google/wikiloop-wikidata-game/blob/8efaa0ddbd50f98b0ed0895d6b5d5e33d0681d3d/wikiloop_game_missing_place_of_birth/index.js#L32
+env.SQL_USER,repo,README.md,3,3,3,3,https://github.com/google/wikiloop-wikidata-game/blob/93aa0db8edc1ff8822a855251607f9adb907356f/README.md,https://github.com/google/wikiloop-wikidata-game/blob/8efaa0ddbd50f98b0ed0895d6b5d5e33d0681d3d/wikiloop_game_missing_place_of_birth/index.js#L31

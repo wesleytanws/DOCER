@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,doc_link,source_link
+arXiv:1312,repo,README.md,1,1,1,1,1,https://github.com/google/multibox/blob/ed00c01238e1baee6687d1d6c43b309052d3c422/README.md,https://github.com/google/multibox/blob/0b13f328473801f6421f3f8b4a4023bb202bef35/multibox.ipynb#L13
+arXiv:1412,repo,README.md,-,-,-,1,1,https://github.com/google/multibox/blob/ed00c01238e1baee6687d1d6c43b309052d3c422/README.md,https://github.com/google/multibox/blob/0b13f328473801f6421f3f8b4a4023bb202bef35/multibox.ipynb#L15

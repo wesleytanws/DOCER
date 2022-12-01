@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,doc_link,source_link
+GRPC,repo,README.md,0,4,4,4,4,4,4,4,https://github.com/google/marmot/blob/2527831e2ee189533048ff7e8248f47cccc5e325/README.md,https://github.com/google/marmot/blob/c5dc566990f46afcadf1c70cc7bc3e36aec7e6cc/service/service.go#L15
+NOTICE,repo,README.md,-,6,6,6,6,6,6,6,https://github.com/google/marmot/blob/2527831e2ee189533048ff7e8248f47cccc5e325/README.md,https://github.com/google/marmot/blob/c5dc566990f46afcadf1c70cc7bc3e36aec7e6cc/LICENSE#L87

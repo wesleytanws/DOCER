@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+upload_pypi_docs,wiki,Release-Procedure.textile,2,0,e24d6ae3b6d543aba6ab9ed176a550c409dfe04e,1281698208,4b7986ff58135c228763bd7e6016cca4b8c3d1b0,1655545927,755d5564e71b02c8eb9937d9a44f8b632a061c4b,1281684730,https://github.com/celery/celery/wiki/Release-Procedure/755d5564e71b02c8eb9937d9a44f8b632a061c4b,https://github.com/celery/celery/blob/e24d6ae3b6d543aba6ab9ed176a550c409dfe04e/pavement.py#L49

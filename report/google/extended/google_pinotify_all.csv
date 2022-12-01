@@ -1,0 +1,12 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+API,repo,README.md,-,-,-,-,12,12,12,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,https://github.com/google/pinotify/blob/c6a1ab13ec0bb6b3bcf2280a3eeceb29c42aebfe/third_party/bootstrap/js/bootstrap.js#L153
+AppEngine,repo,README.md,1,1,1,0,0,5,5,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,https://github.com/google/pinotify/blob/c6a1ab13ec0bb6b3bcf2280a3eeceb29c42aebfe/PRIVACY.md#L4
+PiNotify,repo,README.md,5,5,5,9,9,10,10,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,https://github.com/google/pinotify/blob/c6a1ab13ec0bb6b3bcf2280a3eeceb29c42aebfe/pi_install.sh#L30
+SETUP_TODO,repo,README.md,6,6,6,4,4,4,4,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,https://github.com/google/pinotify/blob/c6a1ab13ec0bb6b3bcf2280a3eeceb29c42aebfe/appengine/web_handlers.py#L38
+UI,repo,README.md,2,2,2,2,2,3,3,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,https://github.com/google/pinotify/blob/c6a1ab13ec0bb6b3bcf2280a3eeceb29c42aebfe/app/src/main/java/com/pinotify/activities/ConfigActivity.java#L152
+URL,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,https://github.com/google/pinotify/blob/c6a1ab13ec0bb6b3bcf2280a3eeceb29c42aebfe/appengine/web_handlers.py#L173
+app/google-services.json,repo,README.md,1,1,1,1,1,1,1,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,code_element is a file name
+app/src/main/java/com/pinotify/BackendService.java,repo,README.md,1,1,1,0,0,0,0,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,code_element is a file name
+app/src/main/java/com/pinotify/RPiBluetoothConnection.java,repo,README.md,1,1,1,-,-,-,-,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,code_element is a file name
+appengine/api.py,repo,README.md,1,1,1,1,1,1,1,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,code_element is a file name
+appengine/web_handlers.py,repo,README.md,-,-,-,-,1,1,1,https://github.com/google/pinotify/blob/d70a73bc5b0572b1aaaa86d14300423083930414/README.md,code_element is a file name

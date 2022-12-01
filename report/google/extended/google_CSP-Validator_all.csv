@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+CSP,repo,README.md,6,6,6,6,6,6,6,https://github.com/google/CSP-Validator/blob/c39314e1e88282ba2fac885f6d6498c11975f5b2/README.md,https://github.com/google/CSP-Validator/blob/20e053f017a0718c6d5180d8fa08302c5de0fe2e/Main.sublime-menu#L11
+CSS,repo,README.md,1,1,1,1,1,1,1,https://github.com/google/CSP-Validator/blob/c39314e1e88282ba2fac885f6d6498c11975f5b2/README.md,https://github.com/google/CSP-Validator/blob/20e053f017a0718c6d5180d8fa08302c5de0fe2e/CSPValidator.py#L80
+JavaScript,repo,README.md,0,0,0,0,0,1,1,https://github.com/google/CSP-Validator/blob/c39314e1e88282ba2fac885f6d6498c11975f5b2/README.md,https://github.com/google/CSP-Validator/blob/20e053f017a0718c6d5180d8fa08302c5de0fe2e/CSPValidator.py#L90
+setTimeout,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/CSP-Validator/blob/c39314e1e88282ba2fac885f6d6498c11975f5b2/README.md,https://github.com/google/CSP-Validator/blob/20e053f017a0718c6d5180d8fa08302c5de0fe2e/CSPValidator.py#L70

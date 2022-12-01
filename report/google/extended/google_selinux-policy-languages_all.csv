@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+SELinux,repo,README.md,7,7,7,10,10,10,https://github.com/google/selinux-policy-languages/blob/2e69ad2944890fa713fe9f76dc54d9db05e90f9a/README.md,https://github.com/google/selinux-policy-languages/blob/2e69ad2944890fa713fe9f76dc54d9db05e90f9a/syntaxes/sepolicy.tmLanguage.json#L7
+TextMate,repo,README.md,1,1,1,1,1,1,https://github.com/google/selinux-policy-languages/blob/2e69ad2944890fa713fe9f76dc54d9db05e90f9a/README.md,https://github.com/google/selinux-policy-languages/blob/2e69ad2944890fa713fe9f76dc54d9db05e90f9a/CHANGELOG.md#L5

@@ -1,0 +1,7 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+1M,repo,README.md,7,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/README.md,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/pezlmanpage.go#L29
+EOL,repo,README.md,5,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/README.md,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/pezlmanpage.go#L38
+GCS,repo,README.md,1,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/README.md,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/main.go#L132
+LICENSE,repo,README.md,6,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/README.md,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/unpezl.go#L7
+SIZE,repo,README.md,5,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/README.md,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/pezlmanpage.go#L34
+nSIZE,repo,README.md,2,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/README.md,https://github.com/google/pezl/blob/0c32d0b3136146fda16bee0d027cfc709091538c/pezlmanpage.go#L38

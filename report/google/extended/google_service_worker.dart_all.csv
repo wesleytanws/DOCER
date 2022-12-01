@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+package:service_worker,repo,README.md,-,0,1,1,1,1,https://github.com/google/service_worker.dart/blob/6178cb383306358cbce77605c89164ca698cdb64/README.md,https://github.com/google/service_worker.dart/blob/1f1290e856afebfc3ec90769e44b24cab1d0d6f6/test/all_test.dart#L7
+service_worker,repo,README.md,-,2,4,4,4,4,https://github.com/google/service_worker.dart/blob/6178cb383306358cbce77605c89164ca698cdb64/README.md,https://github.com/google/service_worker.dart/blob/1f1290e856afebfc3ec90769e44b24cab1d0d6f6/test/all_test.dart#L7

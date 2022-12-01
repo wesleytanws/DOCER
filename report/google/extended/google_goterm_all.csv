@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+CircleCI,repo,README.md,.,.,.,.,.,.,0,1,1,1,https://github.com/google/goterm/blob/ce302be1d1149d49ed520b8f0d9c956b2663b3d6/README.md,https://github.com/google/goterm/blob/555d40f16ae2fad8b4429d18d5cb777e75e5a9dc/.circleci/config.yml#L17
+PTY,repo,README.md,.,.,.,.,.,.,32,32,38,32,https://github.com/google/goterm/blob/ce302be1d1149d49ed520b8f0d9c956b2663b3d6/README.md,https://github.com/google/goterm/blob/555d40f16ae2fad8b4429d18d5cb777e75e5a9dc/term/termios_test.go#L20
+SSH,repo,README.md,.,.,.,.,.,.,6,6,6,6,https://github.com/google/goterm/blob/ce302be1d1149d49ed520b8f0d9c956b2663b3d6/README.md,https://github.com/google/goterm/blob/555d40f16ae2fad8b4429d18d5cb777e75e5a9dc/term/ssh_test.go#L10
+main(),repo,README.md,.,.,.,.,.,.,1,1,1,1,https://github.com/google/goterm/blob/ce302be1d1149d49ed520b8f0d9c956b2663b3d6/README.md,https://github.com/google/goterm/blob/555d40f16ae2fad8b4429d18d5cb777e75e5a9dc/example/example.go#L26

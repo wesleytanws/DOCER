@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+XDM,repo,README.md,36,42,https://github.com/google/xmpmeta/blob/8220c2c1ef7d9cee0fc65615e3324c78bce2acb0/README.md,https://github.com/google/xmpmeta/blob/73671eccaef4879bb89fa98ee3e50514760f6c97/internal/xmpmeta/xmp_writer_test.cc#L82
+XMP,repo,README.md,126,127,https://github.com/google/xmpmeta/blob/8220c2c1ef7d9cee0fc65615e3324c78bce2acb0/README.md,https://github.com/google/xmpmeta/blob/73671eccaef4879bb89fa98ee3e50514760f6c97/testdata/xmp_writer_standard_section_data.txt#L2
+XMPMeta,repo,README.md,133,143,https://github.com/google/xmpmeta/blob/8220c2c1ef7d9cee0fc65615e3324c78bce2acb0/README.md,https://github.com/google/xmpmeta/blob/73671eccaef4879bb89fa98ee3e50514760f6c97/internal/xmpmeta/xmp_writer_test.cc#L1

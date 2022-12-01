@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+OctoPrint,repo,README.md,8,8,10,10,10,10,10,https://github.com/google/OctoPrint-TemperatureFailsafe/blob/b533141508976d129fbb91e4d1503d8ccf7b96fc/README.md,https://github.com/google/OctoPrint-TemperatureFailsafe/blob/749049b084516755581ee08089bd496dccf59809/setup.py#L20
+TemperatureFailsafe,repo,README.md,17,17,19,22,22,22,22,https://github.com/google/OctoPrint-TemperatureFailsafe/blob/b533141508976d129fbb91e4d1503d8ccf7b96fc/README.md,https://github.com/google/OctoPrint-TemperatureFailsafe/blob/749049b084516755581ee08089bd496dccf59809/setup.py#L18

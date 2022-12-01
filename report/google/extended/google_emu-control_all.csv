@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+CONTRIBUTING.md,repo,README.md,1,1,1,https://github.com/google/emu-control/blob/a358ca8d4f5163681242350d00ce9d86191ba43f/README.md,code_element is a file name
+FEMU,repo,README.md,8,8,9,https://github.com/google/emu-control/blob/a358ca8d4f5163681242350d00ce9d86191ba43f/README.md,https://github.com/google/emu-control/blob/5ed33e2535f29a4513c67caebc924e50be32fb54/record_screen.go#L55
+LICENSE,repo,README.md,12,12,12,https://github.com/google/emu-control/blob/a358ca8d4f5163681242350d00ce9d86191ba43f/README.md,https://github.com/google/emu-control/blob/5ed33e2535f29a4513c67caebc924e50be32fb54/record_screen.go#L7

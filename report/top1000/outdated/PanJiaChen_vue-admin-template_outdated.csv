@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+sourceMap,wiki,Home.md,8,0,972b305e482ba772c1fe4cc3fa44d12e7a166709,1501573744,4c18a3f47bdb417ad8a25f09910f848cb574dee2,1637306514,e0fcdc20fd2104ab691ea8efc06c8ac2a85ee3ab,1501229468,https://github.com/PanJiaChen/vue-admin-template/wiki/Home/e0fcdc20fd2104ab691ea8efc06c8ac2a85ee3ab,https://github.com/PanJiaChen/vue-admin-template/blob/972b305e482ba772c1fe4cc3fa44d12e7a166709/build/webpack.prod.conf.js#L21

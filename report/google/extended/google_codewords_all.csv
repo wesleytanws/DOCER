@@ -1,0 +1,7 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+JavaScript,repo,README.md,.,24,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/README.md,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/doc/known_issues.md#L32
+codewords_core,repo,README.md,.,73,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/README.md,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/demo/development_shell/index.html#L21
+codewords_lang_js,repo,README.md,.,15,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/README.md,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/demo/development_shell/index.html#L22
+demo,repo,README.md,.,10,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/README.md,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/settings.gradle#L1
+doc,repo,README.md,.,67,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/README.md,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/demo/code_physics/web/third_party/matter.js#L660
+iOS,repo,README.md,.,2,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/README.md,https://github.com/google/codewords/blob/90fed0ff0b59a28df131ae0c7edbc63994ffb738/doc/known_issues.md#L48

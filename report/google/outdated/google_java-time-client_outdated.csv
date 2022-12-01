@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+BUILD,repo,README.md,16,0,ddc81af0f41acbf60f0c60f0e0131026c92531d2,1653404283,67737a9a9d60d97e51fc76f09551dc6b280bd3f2,1655297774,ddc81af0f41acbf60f0c60f0e0131026c92531d2,1653404283,https://github.com/google/java-time-client/blob/ddc81af0f41acbf60f0c60f0e0131026c92531d2/README.md,code_element is a file name

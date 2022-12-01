@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+AndroidTarget,repo,README.md,-,3,3,3,3,3,3,https://github.com/google/asset-check/blob/341f333cd9116385e97bddfa40315283bbee9f83/README.md,https://github.com/google/asset-check/blob/8fa37460ce3f1c026f014561325d34ff28acaeab/schema.js#L50
+URL,repo,README.md,-,2,2,2,2,3,3,https://github.com/google/asset-check/blob/341f333cd9116385e97bddfa40315283bbee9f83/README.md,https://github.com/google/asset-check/blob/8fa37460ce3f1c026f014561325d34ff28acaeab/index.js#L86
+WebTarget,repo,README.md,-,3,3,3,3,3,3,https://github.com/google/asset-check/blob/341f333cd9116385e97bddfa40315283bbee9f83/README.md,https://github.com/google/asset-check/blob/8fa37460ce3f1c026f014561325d34ff28acaeab/schema.js#L49

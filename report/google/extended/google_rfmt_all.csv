@@ -1,0 +1,7 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,doc_link,source_link
+ClangFormat,repo,README.md,0,0,0,0,2,2,2,3,4,https://github.com/google/rfmt/blob/caebda28254426ea444af68838890aff5d3a5d80/README.md,https://github.com/google/rfmt/blob/8519dc9d78851df76ced79924c0977936f4f97d6/vignettes/rfmt.Rmd#L9
+PYTHONPATH,repo,README.md,0,0,0,0,1,-,-,-,-,https://github.com/google/rfmt/blob/caebda28254426ea444af68838890aff5d3a5d80/README.md,https://github.com/google/rfmt/blob/bb8391f3c6926378e063c4b81d4bf83c4b731e04/inst/python/README.md#L12
+formatR,repo,README.md,-,-,-,-,-,3,3,4,5,https://github.com/google/rfmt/blob/caebda28254426ea444af68838890aff5d3a5d80/README.md,https://github.com/google/rfmt/blob/8519dc9d78851df76ced79924c0977936f4f97d6/vignettes/rfmt.Rmd#L10
+formatter,repo,README.md,20,20,97,97,137,-,-,-,-,https://github.com/google/rfmt/blob/caebda28254426ea444af68838890aff5d3a5d80/README.md,https://github.com/google/rfmt/blob/bb8391f3c6926378e063c4b81d4bf83c4b731e04/vignettes/rfmt.Rmd#L3
+ply,repo,README.md,3,3,3,3,28,28,28,28,28,https://github.com/google/rfmt/blob/caebda28254426ea444af68838890aff5d3a5d80/README.md,https://github.com/google/rfmt/blob/8519dc9d78851df76ced79924c0977936f4f97d6/inst/python/setup.py#L70
+rfmt.py,repo,README.md,1,1,1,1,6,-,-,-,-,https://github.com/google/rfmt/blob/caebda28254426ea444af68838890aff5d3a5d80/README.md,https://github.com/google/rfmt/blob/bb8391f3c6926378e063c4b81d4bf83c4b731e04/inst/python/README.md#L4

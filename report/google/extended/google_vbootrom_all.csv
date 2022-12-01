@@ -1,0 +1,9 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+ARM,repo,README.md,0,0,4,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/npcm8xx/README.md#L10
+CROSS_COMPILE,repo,README.md,3,3,-,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/0c37a43527f0ee2b9584e7fb2fdc805e902635ac/Makefile#L15
+QEMU,repo,README.md,0,0,4,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/npcm8xx/README.md#L6
+ROM,repo,README.md,6,6,18,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/npcm8xx/start.S#L2
+SRAM,repo,README.md,5,5,-,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/0c37a43527f0ee2b9584e7fb2fdc805e902635ac/start.S#L129
+SoCs,repo,README.md,0,0,2,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/npcm8xx/README.md#L1
+make,repo,README.md,1,1,-,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/0c37a43527f0ee2b9584e7fb2fdc805e902635ac/LICENSE#L77
+npcm7xx_bootrom.bin,repo,README.md,2,2,-,https://github.com/google/vbootrom/blob/1287b6e42e839ba2ab0f06268c5b53ae60df3537/README.md,https://github.com/google/vbootrom/blob/0c37a43527f0ee2b9584e7fb2fdc805e902635ac/Makefile#L28

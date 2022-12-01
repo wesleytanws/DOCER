@@ -1,0 +1,9 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+-update_golden,repo,README.md,6,6,6,6,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden_test.go#L36
+AUnitTest(t *testing.T),repo,README.md,1,1,1,1,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden.go#L27
+"Compare(got, "".../testdata/data.txt.golden"")",repo,README.md,1,1,1,1,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden.go#L29
+HTML,repo,README.md,1,1,1,1,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden.go#L22
+MarshalTextString(code_under_test.ComputeTediousData(...),repo,README.md,1,1,1,1,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden.go#L28
+t.Error(diff),repo,README.md,1,1,1,1,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden.go#L30
+ultimate_answer,repo,README.md,2,2,2,2,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/golden.go#L41
+update_golden,repo,README.md,1,1,1,1,https://github.com/google/golden/blob/38bf9bb5bf527dd368ffb6e6b1d65b692cac7530/README.md,https://github.com/google/golden/blob/894db1255060ae1efeb949382299a1af4a7e513b/build.go#L32

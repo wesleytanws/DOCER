@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+LICENSE,repo,README.md,64,64,be8b66d4f7925e35fad1b6acd5b7fd3317de98a2,1556528046,be8b66d4f7925e35fad1b6acd5b7fd3317de98a2,1556528046,be8b66d4f7925e35fad1b6acd5b7fd3317de98a2,1556528046,https://github.com/google/harpia/blob/be8b66d4f7925e35fad1b6acd5b7fd3317de98a2/README.md,https://github.com/google/harpia/blob/be8b66d4f7925e35fad1b6acd5b7fd3317de98a2/verification/rook-ceph.sh#L9

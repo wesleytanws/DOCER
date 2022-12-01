@@ -1,0 +1,6 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+API,repo,README.md,.,6,6,6,6,6,6,https://github.com/google/dcm_bulk_onboarding/blob/74bc95c1446fe36761a599e2f357c832bdb84cfd/README.md,https://github.com/google/dcm_bulk_onboarding/blob/17433a8d7cc11127447699f0c821facf4685767f/code.js#L41
+AdvertiserGroups,repo,README.md,.,4,4,4,4,4,4,https://github.com/google/dcm_bulk_onboarding/blob/74bc95c1446fe36761a599e2f357c832bdb84cfd/README.md,https://github.com/google/dcm_bulk_onboarding/blob/17433a8d7cc11127447699f0c821facf4685767f/utils.js#L31
+DCM,repo,README.md,.,15,15,13,13,13,13,https://github.com/google/dcm_bulk_onboarding/blob/74bc95c1446fe36761a599e2f357c832bdb84cfd/README.md,https://github.com/google/dcm_bulk_onboarding/blob/17433a8d7cc11127447699f0c821facf4685767f/utils.js#L36
+FloodlightConfigShareAdvertisers,repo,README.md,.,2,2,2,2,2,2,https://github.com/google/dcm_bulk_onboarding/blob/74bc95c1446fe36761a599e2f357c832bdb84cfd/README.md,https://github.com/google/dcm_bulk_onboarding/blob/17433a8d7cc11127447699f0c821facf4685767f/utils.js#L33
+ID,repo,README.md,.,18,18,18,18,18,18,https://github.com/google/dcm_bulk_onboarding/blob/74bc95c1446fe36761a599e2f357c832bdb84cfd/README.md,https://github.com/google/dcm_bulk_onboarding/blob/17433a8d7cc11127447699f0c821facf4685767f/utils.js#L37

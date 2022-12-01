@@ -1,0 +1,11 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+classification/run.py,repo,README.md,0,0,0,0,1,1,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,code_element is a file name
+detection/run.py,repo,README.md,0,0,0,0,1,1,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,code_element is a file name
+graph_distillation,repo,README.md,0,0,14,14,14,14,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/scripts/download_models.sh#L1
+modalities,repo,README.md,0,0,0,0,93,93,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/scripts/train_pku_mmd_distillation.sh#L23
+scripts/train_ntu_rgbd.sh,repo,README.md,0,0,0,0,1,1,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,code_element is a file name
+scripts/train_ntu_rgbd_distillation.sh,repo,README.md,0,0,0,0,1,1,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,code_element is a file name
+scripts/train_pku_mmd.sh,repo,README.md,0,0,0,0,1,1,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,code_element is a file name
+scripts/train_pku_mmd_distillation.sh,repo,README.md,0,0,0,0,1,1,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,code_element is a file name
+visual_encoder_ckpt_path,repo,README.md,0,0,0,0,8,8,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/scripts/train_pku_mmd_distillation.sh#L21
+xfer_to,repo,README.md,0,0,0,0,27,27,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/README.md,https://github.com/google/graph_distillation/blob/1a7ce5125098e7df869f08e15e2d6d8bb3189382/scripts/train_pku_mmd_distillation.sh#L22

@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+ArrayRecord,repo,README.md,12,12,12,https://github.com/google/array_record/blob/f71daf49aa42eec342a90a52785c185e17a95ed8/README.md,https://github.com/google/array_record/blob/6d945e9c4745355aaf44f197f937b64865c944bf/python/BUILD#L1
+IO,repo,README.md,4,4,4,https://github.com/google/array_record/blob/f71daf49aa42eec342a90a52785c185e17a95ed8/README.md,https://github.com/google/array_record/blob/6d945e9c4745355aaf44f197f937b64865c944bf/cpp/sequenced_chunk_writer.h#L231

@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+KV,repo,README.md,12,11,https://github.com/google/kv-s3105c/blob/8846b6296252a4d977fc04da00a33b985cf1060c/README.md,https://github.com/google/kv-s3105c/blob/16b17719a7950214cc35e68cc0965dae1e26496e/kv-ss905c/kvss905c.h#L21
+SCSI,repo,README.md,39,37,https://github.com/google/kv-s3105c/blob/8846b6296252a4d977fc04da00a33b985cf1060c/README.md,https://github.com/google/kv-s3105c/blob/16b17719a7950214cc35e68cc0965dae1e26496e/kv-ss905c/kvss905c.h#L28
+USB,repo,README.md,16,15,https://github.com/google/kv-s3105c/blob/8846b6296252a4d977fc04da00a33b985cf1060c/README.md,https://github.com/google/kv-s3105c/blob/16b17719a7950214cc35e68cc0965dae1e26496e/kv-s3105c/monitor.c#L16

@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,doc_link,source_link
+GAN,repo,README.md,0,10,11,11,11,11,11,11,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/README.md,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/third_party/utils.py#L94
+README.md,repo,README.md,1,2,3,4,4,4,4,4,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/README.md,code_element is a file name
+biggan_cifar,repo,README.md,0,1,7,7,7,7,7,7,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/README.md,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/biggan_cifar/README.md#L11
+biggan_imagenet,repo,README.md,0,0,1,1,1,1,1,1,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/README.md,https://github.com/google/lecam-gan/blob/f9af9485eda4637b25e694c142ce8e6992eb7243/biggan_imagenet/README.md#L10

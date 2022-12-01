@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,rev_14,doc_link,source_link
+HTTP,repo,README.md,.,.,.,.,.,.,.,6,6,6,6,6,6,6,https://github.com/google/nel-reporter-java/blob/e06dc3f43477e71b8e8b12bf5342979988a255a5/README.md,https://github.com/google/nel-reporter-java/blob/470cf2c802f54f21fd455104140ce418c4daffa3/src/main/java/nel/Type.java#L72
+NEL,repo,README.md,.,.,.,.,.,.,.,5,5,5,5,6,6,23,https://github.com/google/nel-reporter-java/blob/e06dc3f43477e71b8e8b12bf5342979988a255a5/README.md,https://github.com/google/nel-reporter-java/blob/470cf2c802f54f21fd455104140ce418c4daffa3/src/main/java/nel/Type.java#L20

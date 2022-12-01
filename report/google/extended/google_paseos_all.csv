@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,doc_link,source_link
+IndexedDB,repo,README.md,-,-,7,7,7,7,7,7,https://github.com/google/paseos/blob/b15ddc64a43de0631542df2c3d483c2a470420aa/README.md,https://github.com/google/paseos/blob/d35f53f04660ace7d202035bd07d3afb9a6cc4e4/src/indexeddb-adapter.js#L21
+deploy.sh,repo,README.md,1,1,1,1,1,1,1,1,https://github.com/google/paseos/blob/b15ddc64a43de0631542df2c3d483c2a470420aa/README.md,code_element is a file name
+run.sh,repo,README.md,1,1,1,-,-,-,-,-,https://github.com/google/paseos/blob/b15ddc64a43de0631542df2c3d483c2a470420aa/README.md,code_element is a file name

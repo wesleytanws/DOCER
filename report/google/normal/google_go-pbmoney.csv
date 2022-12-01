@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+LICENSE,repo,README.md,4,4,26006d74697a5a73ca007168c1f2ba2d53dfe7fa,1530124722,580e6beebe66ea679a23278bffeed2dd7d8e9651,1634082096,26006d74697a5a73ca007168c1f2ba2d53dfe7fa,1530124722,https://github.com/google/go-pbmoney/blob/26006d74697a5a73ca007168c1f2ba2d53dfe7fa/README.md,https://github.com/google/go-pbmoney/blob/580e6beebe66ea679a23278bffeed2dd7d8e9651/money_test.go#L7

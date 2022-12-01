@@ -1,0 +1,17 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+0xFF,repo,README.md,2,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/MemClient.py#L92
+ANY,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+AS,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L14
+BASIS,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L14
+CONDITIONS,repo,README.md,21,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+IS,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L14
+KASLR,repo,README.md,1,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/MemClient.py#L71
+KIND,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+LICENSE,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L11
+OF,repo,README.md,20,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+OR,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+QWORD,repo,README.md,4,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/defs.py#L25
+VA,repo,README.md,5,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/TranslationTable.py#L117
+WARRANTIES,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+WITHOUT,repo,README.md,19,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L15
+iOS,repo,README.md,18,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/README.md,https://github.com/google/Legilimency/blob/02cd38fd82a90bca789b8bf61c88f4bc5dd1eb07/symbols.py#L1

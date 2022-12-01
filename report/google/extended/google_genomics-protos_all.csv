@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+LICENSE,repo,README.md,7,7,7,7,7,7,7,8,8,8,https://github.com/google/genomics-protos/blob/71fbb7ac35b0a76160e600409196ceed32b97482/README.md,https://github.com/google/genomics-protos/blob/8df99935a3e2164b285dcc8a77b0b00679f0ef98/setup.py#L7
+genomics_protos,repo,README.md,-,-,-,-,-,-,-,2,2,2,https://github.com/google/genomics-protos/blob/71fbb7ac35b0a76160e600409196ceed32b97482/README.md,https://github.com/google/genomics-protos/blob/8df99935a3e2164b285dcc8a77b0b00679f0ef98/setup.py#L34
+pip,repo,README.md,-,-,-,-,-,-,-,4,4,4,https://github.com/google/genomics-protos/blob/71fbb7ac35b0a76160e600409196ceed32b97482/README.md,https://github.com/google/genomics-protos/blob/8df99935a3e2164b285dcc8a77b0b00679f0ef98/setup.py#L85
+readalignment_pb2,repo,README.md,-,-,-,-,-,-,-,3,3,3,https://github.com/google/genomics-protos/blob/71fbb7ac35b0a76160e600409196ceed32b97482/README.md,https://github.com/google/genomics-protos/blob/8df99935a3e2164b285dcc8a77b0b00679f0ef98/google/genomics/v1/readalignment_pb2.py#L269

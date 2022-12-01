@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,doc_link,source_link
+HPA,repo,README.md,-,-,6,6,6,6,6,6,6,https://github.com/google/learn-oss-with-google/blob/95e8ead6415507f4d8cfa3447dab6002c4eabca5/README.md,https://github.com/google/learn-oss-with-google/blob/95e8ead6415507f4d8cfa3447dab6002c4eabca5/kubernetes/hpa-scaling-by-resource/README.md#L1
+HTTP,repo,README.md,-,-,-,-,-,-,-,2,2,https://github.com/google/learn-oss-with-google/blob/95e8ead6415507f4d8cfa3447dab6002c4eabca5/README.md,https://github.com/google/learn-oss-with-google/blob/95e8ead6415507f4d8cfa3447dab6002c4eabca5/kubernetes/http-routing/ilb-gateway.yaml#L14
+XJ5VfXgbDAk1vL4xaMl,repo,README.md,0,2,2,2,2,2,2,2,2,https://github.com/google/learn-oss-with-google/blob/95e8ead6415507f4d8cfa3447dab6002c4eabca5/README.md,https://github.com/google/learn-oss-with-google/blob/95e8ead6415507f4d8cfa3447dab6002c4eabca5/kubernetes/hpa-scaling-by-resource/README.md#L30

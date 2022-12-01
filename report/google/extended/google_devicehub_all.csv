@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+CustomCodeHandler,repo,README.md,10,10,https://github.com/google/devicehub/blob/32274f9631e1f500ca554c4d3abb18e903eeb3a2/README.md,https://github.com/google/devicehub/blob/b7e301df73f08d59c8e2319dc67497a7f4218ad2/device/src/main/java/com/google/devicehub/device/examples/TimeHandler.java#L17
+DeviceHub,repo,README.md,3,3,https://github.com/google/devicehub/blob/32274f9631e1f500ca554c4d3abb18e903eeb3a2/README.md,https://github.com/google/devicehub/blob/b7e301df73f08d59c8e2319dc67497a7f4218ad2/proto/src/main/proto/devicehub_service.proto#L25
+LICENSE,repo,README.md,36,36,https://github.com/google/devicehub/blob/32274f9631e1f500ca554c4d3abb18e903eeb3a2/README.md,https://github.com/google/devicehub/blob/b7e301df73f08d59c8e2319dc67497a7f4218ad2/proto/src/main/proto/devicehub_service.proto#L7

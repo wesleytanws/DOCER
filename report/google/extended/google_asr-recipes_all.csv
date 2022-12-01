@@ -1,0 +1,9 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+ASR,repo,README.md,2,2,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/tools/corpus_util.py#L17
+GitHub,repo,README.md,2,2,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/CONTRIBUTING.md#L21
+KALDI_ROOT,repo,README.md,12,12,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/common/train.sh#L20
+LICENSE,repo,README.md,13,14,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/tools/traintest-split.sh#L9
+PATH,repo,README.md,2,2,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/common/path.sh#L24
+asr_javanese,repo,README.md,2,2,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/tools/download_data.sh#L18
+flac,repo,README.md,3,3,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/tools/kaldi_converter.py#L98
+run.sh,repo,README.md,2,3,https://github.com/google/asr-recipes/blob/29aa15098a1ef566b845ee0f144b31594d062d01/README.md,code_element is a file name

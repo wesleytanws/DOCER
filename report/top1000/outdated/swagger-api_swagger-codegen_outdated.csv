@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+CircleCI,wiki,Integration-Tests.md,1,0,2fd38fbbe286980b0c6c7d063da6aa080935cd96,1516163805,ab0793b38263d6272d6855a789cb37d195b27c60,1654200307,5e5f2a4c19a1092192bc1056c37e14e20fd4c378,1516002376,https://github.com/swagger-api/swagger-codegen/wiki/Integration-Tests/5e5f2a4c19a1092192bc1056c37e14e20fd4c378,https://github.com/swagger-api/swagger-codegen/blob/2fd38fbbe286980b0c6c7d063da6aa080935cd96/.travis.yml#L82

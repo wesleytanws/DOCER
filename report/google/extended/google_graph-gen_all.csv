@@ -1,0 +1,8 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+NVP,repo,README.md,2,2,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/real_NVP.py#L934
+batch_size,repo,README.md,38,38,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/trainer.py#L36
+exp_dir,repo,README.md,15,15,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/trainer.py#L39
+only_nodes,repo,README.md,6,6,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/trainer.py#L50
+perturb_data,repo,README.md,2,2,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/trainer.py#L53
+train_steps,repo,README.md,2,2,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/trainer.py#L33
+use_edge_features,repo,README.md,35,35,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/README.md,https://github.com/google/graph-gen/blob/6481e09696ee5b29c12d893a61c27b80f8d874be/research/graph_gen/trainer.py#L55

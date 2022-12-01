@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+JS,wiki,Creating-a-new-provider.md,5,0,065f1e0018c2c8d6ab6a0d3e9c4fdc3f34a74668,1409778926,561484d83e5f6ea9176f65a03869644e50feb200,1424797295,22a23d06b0ae24b044364b48c8069027b1ded756,1409694451,https://github.com/google/chromeos-filesystems/wiki/Creating-a-new-provider/22a23d06b0ae24b044364b48c8069027b1ded756,https://github.com/google/chromeos-filesystems/blob/065f1e0018c2c8d6ab6a0d3e9c4fdc3f34a74668/unrar/js/request.js#L8

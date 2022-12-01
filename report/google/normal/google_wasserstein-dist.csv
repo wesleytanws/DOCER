@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+NIPS,repo,README.md,2,2,115837de76e8bc1d55ffbb4ec85061326ed68e2f,1505489947,9ad8fd367425018fc4b12241d617cdc3e8fcdaa1,1511979303,115837de76e8bc1d55ffbb4ec85061326ed68e2f,1505489947,https://github.com/google/wasserstein-dist/blob/115837de76e8bc1d55ffbb4ec85061326ed68e2f/README.md,https://github.com/google/wasserstein-dist/blob/9ad8fd367425018fc4b12241d617cdc3e8fcdaa1/wasserstein.py#L18

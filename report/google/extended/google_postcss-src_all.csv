@@ -1,0 +1,13 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+ANY,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L147
+AS,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L146
+BASIS,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L146
+CONDITIONS,repo,README.md,-,.,4,4,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L6
+GitHub,repo,README.md,-,.,2,-,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/832c1ebd6903d0988e22c0d57c7fcd3ed6945ed4/docs/contributing.md#L21
+IS,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L146
+KIND,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L147
+LICENSE,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L196
+OF,repo,README.md,-,.,3,3,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L147
+OR,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L147
+WARRANTIES,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L147
+WITHOUT,repo,README.md,-,.,2,2,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/README.md,https://github.com/google/postcss-src/blob/ac6476945751cb730dae3443f49032fcd85e9dfb/LICENSE#L147

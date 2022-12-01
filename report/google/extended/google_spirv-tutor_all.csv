@@ -1,0 +1,11 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+./scripts/test_spirv,repo,README.md,1,1,1,1,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/validate#L5
+GLSL,repo,README.md,28,28,36,36,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L4
+README.md,repo,README.md,10,10,13,13,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,code_element is a file name
+SPIR,repo,README.md,72,72,83,83,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L3
+ansi,repo,README.md,1,1,1,1,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L28
+highlight,repo,README.md,5,5,5,5,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L25
+spirv-as,repo,README.md,4,4,4,4,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L19
+spirv-tools,repo,README.md,1,1,1,1,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/setup#L25
+spirv-val,repo,README.md,6,6,6,6,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L23
+xterm256,repo,README.md,2,2,2,2,https://github.com/google/spirv-tutor/blob/38290f426f75788a58b581048236bbf34508ae51/README.md,https://github.com/google/spirv-tutor/blob/546b45d2239d7057ccfdb706a846ef7f1addc071/scripts/test_spirv#L28

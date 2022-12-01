@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+ArduinoNeoPixel,repo,README.md,5,5,https://github.com/google/cncmicroscope-code/blob/99b17a2d6c87f686fe1049acd4d9500ade3404b2/README.md,https://github.com/google/cncmicroscope-code/blob/99b17a2d6c87f686fe1049acd4d9500ade3404b2/micromanager/arduino_neopixel_shutter_hub/ArduinoNeoPixelShutter.cpp#L28
+RAMPS,repo,README.md,41,41,https://github.com/google/cncmicroscope-code/blob/99b17a2d6c87f686fe1049acd4d9500ade3404b2/README.md,https://github.com/google/cncmicroscope-code/blob/99b17a2d6c87f686fe1049acd4d9500ade3404b2/micromanager/ramps_stage_hub/ZStage.cpp#L21
+XY,repo,README.md,2,2,https://github.com/google/cncmicroscope-code/blob/99b17a2d6c87f686fe1049acd4d9500ade3404b2/README.md,https://github.com/google/cncmicroscope-code/blob/99b17a2d6c87f686fe1049acd4d9500ade3404b2/micromanager/ramps_stage_hub/XYStage.cpp#L84

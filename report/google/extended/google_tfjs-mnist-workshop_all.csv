@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+API,repo,README.md,.,0,0,3,3,3,3,3,3,3,https://github.com/google/tfjs-mnist-workshop/blob/a5d6e26aa298bb5bd9aa0b38b81d6d87069e9830/README.md,https://github.com/google/tfjs-mnist-workshop/blob/c602abca62bc6704a7f260a33605da2465b24709/js/assets/tfjs@0.10.0#L1
+JS,repo,README.md,.,-,-,1,1,1,1,1,1,1,https://github.com/google/tfjs-mnist-workshop/blob/a5d6e26aa298bb5bd9aa0b38b81d6d87069e9830/README.md,https://github.com/google/tfjs-mnist-workshop/blob/c602abca62bc6704a7f260a33605da2465b24709/js/assets/material.cyan-teal.min.css#L2
+TensorFlow,repo,README.md,.,0,0,4,4,4,6,6,6,6,https://github.com/google/tfjs-mnist-workshop/blob/a5d6e26aa298bb5bd9aa0b38b81d6d87069e9830/README.md,https://github.com/google/tfjs-mnist-workshop/blob/c602abca62bc6704a7f260a33605da2465b24709/py/solutions/run_keras.ipynb#L10

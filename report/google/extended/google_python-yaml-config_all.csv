@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+YAML,repo,README.md,3,3,3,3,2,2,https://github.com/google/python-yaml-config/blob/bf8e5e3811c4f63d77e76acd28be2e46bdc49bb8/README.md,https://github.com/google/python-yaml-config/blob/ed6573b5f1d71dfddd7868ef802bd9fa7136f965/yaml_config_loader/config.py#L37

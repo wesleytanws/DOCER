@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+memcpy(),repo,README.md,0,2,https://github.com/google/varstruct/blob/7f0e69da3e98e3054732b353c6ef2319a814a739/README.md,https://github.com/google/varstruct/blob/7f0e69da3e98e3054732b353c6ef2319a814a739/varstruct_internal.h#L245
+varstruct_internal,repo,README.md,0,15,https://github.com/google/varstruct/blob/7f0e69da3e98e3054732b353c6ef2319a814a739/README.md,https://github.com/google/varstruct/blob/7f0e69da3e98e3054732b353c6ef2319a814a739/varstruct_internal.h#L25
+varstruct_test,repo,README.md,0,4,https://github.com/google/varstruct/blob/7f0e69da3e98e3054732b353c6ef2319a814a739/README.md,https://github.com/google/varstruct/blob/7f0e69da3e98e3054732b353c6ef2319a814a739/varstruct.h#L108

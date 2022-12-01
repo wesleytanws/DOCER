@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+SDK,repo,README.md,1,https://github.com/google/flutter_minimal_store/blob/5e5df2390dd99fbd359f7d89181434b0ca8fb4b3/README.md,https://github.com/google/flutter_minimal_store/blob/5e5df2390dd99fbd359f7d89181434b0ca8fb4b3/android/app/build.gradle#L11
+typer,repo,README.md,55,https://github.com/google/flutter_minimal_store/blob/5e5df2390dd99fbd359f7d89181434b0ca8fb4b3/README.md,https://github.com/google/flutter_minimal_store/blob/5e5df2390dd99fbd359f7d89181434b0ca8fb4b3/typer/steps.json#L4

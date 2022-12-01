@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+DNS,repo,README.md,1,https://github.com/google/lame-dns/blob/e1b204107964f75ab17a18945bc8b538d3507b4b/README.md,https://github.com/google/lame-dns/blob/e1b204107964f75ab17a18945bc8b538d3507b4b/main.go#L124
+ERROR,repo,README.md,4,https://github.com/google/lame-dns/blob/e1b204107964f75ab17a18945bc8b538d3507b4b/README.md,https://github.com/google/lame-dns/blob/e1b204107964f75ab17a18945bc8b538d3507b4b/work_name.go#L50
+NS,repo,README.md,36,https://github.com/google/lame-dns/blob/e1b204107964f75ab17a18945bc8b538d3507b4b/README.md,https://github.com/google/lame-dns/blob/e1b204107964f75ab17a18945bc8b538d3507b4b/work_name.go#L59

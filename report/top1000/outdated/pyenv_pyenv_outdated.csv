@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+python-local-exec,wiki,python-local-exec.md,5,0,78efa7613da782cbfd60d3e50b5342baf56d8168,1368877957,572a8bcfbae62fcfce6b817484951f3df8b9be85,1655133756,b734b8f16decc073b6ed037736242b211f1a3541,1368845654,https://github.com/pyenv/pyenv/wiki/python-local-exec/b734b8f16decc073b6ed037736242b211f1a3541,https://github.com/pyenv/pyenv/blob/78efa7613da782cbfd60d3e50b5342baf56d8168/bin/python-local-exec#L3

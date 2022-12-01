@@ -1,0 +1,9 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+1P,repo,README.md,5,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/reports/business_impact_report.js#L45
+ADH,repo,README.md,77,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/reports/reach_frequency_v2_report.js#L57
+BQ,repo,README.md,9,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/reports/business_impact_report.js#L18
+BigQuery,repo,README.md,1,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/properties.js#L34
+CM,repo,README.md,38,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/reports/reach_frequency_v2_report.js#L19
+ID,repo,README.md,111,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/tests/query_builder_tests.js#L82
+SQL,repo,README.md,25,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/reports/saved_query_report.js#L18
+USE,repo,README.md,1,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/README.md,https://github.com/google/hubvantage/blob/417a51dd0bb00ab6ee990c94145b3988b324cb76/LICENSE#L6

@@ -1,0 +1,6 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+BUILD,repo,README.md,1,21,21,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/README.md,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/wordlists/wordlist_large.txt#L119
+GitHub,repo,README.md,2,2,2,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/README.md,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/CONTRIBUTING.md#L21
+HTML,repo,README.md,47,47,47,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/README.md,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/util/html_fingerprint.h#L35
+NOTE,repo,README.md,5,5,4,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/README.md,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/opensource/deps/base/port.h#L1146
+XSS,repo,README.md,39,39,39,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/README.md,https://github.com/google/plusfish/blob/a56ac07ca132613ecda7f252a69312ada66bbbca/proto/severity.proto#L10

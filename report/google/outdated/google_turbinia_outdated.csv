@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+LOG_FILE,repo,README.md,5,0,a67e463e359c5ce448f1a59c2cd796b858dff8a7,1640934222,059a59d4eac3a54aeb397c0a259a7700903c8775,1655342349,a67e463e359c5ce448f1a59c2cd796b858dff8a7,1640934222,https://github.com/google/turbinia/blob/a67e463e359c5ce448f1a59c2cd796b858dff8a7/README.md,https://github.com/google/turbinia/blob/a67e463e359c5ce448f1a59c2cd796b858dff8a7/turbinia/turbiniactl.py#L397

@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+StrawNet,repo,README.md,0,7,7,7,7,7,7,https://github.com/google/StrawNet/blob/382d83c791fa0ff3989f358f665fbc53afa9c52c/README.md,https://github.com/google/StrawNet/blob/33ff1484a9d41c78f0aafe7e99ef61f66725d355/index.html#L6
+TTS,repo,README.md,0,1,1,1,1,2,2,https://github.com/google/StrawNet/blob/382d83c791fa0ff3989f358f665fbc53afa9c52c/README.md,https://github.com/google/StrawNet/blob/33ff1484a9d41c78f0aafe7e99ef61f66725d355/index.html#L11
+WaveNet,repo,README.md,0,7,7,7,7,8,8,https://github.com/google/StrawNet/blob/382d83c791fa0ff3989f358f665fbc53afa9c52c/README.md,https://github.com/google/StrawNet/blob/33ff1484a9d41c78f0aafe7e99ef61f66725d355/index.html#L11

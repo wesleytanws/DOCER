@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+API,repo,README.md,1,https://github.com/google/intelligent_annotation_dialogs/blob/75aa7e6b77be5fd457ad6d3a9821d918cebcce90/README.md,https://github.com/google/intelligent_annotation_dialogs/blob/75aa7e6b77be5fd457ad6d3a9821d918cebcce90/environment.py#L42
+np_box_ops,repo,README.md,7,https://github.com/google/intelligent_annotation_dialogs/blob/75aa7e6b77be5fd457ad6d3a9821d918cebcce90/README.md,https://github.com/google/intelligent_annotation_dialogs/blob/75aa7e6b77be5fd457ad6d3a9821d918cebcce90/exp2_IAD_prob.ipynb#L62
+object_detection,repo,README.md,1,https://github.com/google/intelligent_annotation_dialogs/blob/75aa7e6b77be5fd457ad6d3a9821d918cebcce90/README.md,https://github.com/google/intelligent_annotation_dialogs/blob/75aa7e6b77be5fd457ad6d3a9821d918cebcce90/annotator.py#L23

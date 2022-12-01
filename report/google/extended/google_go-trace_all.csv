@@ -1,0 +1,11 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+LockGoRoutine,repo,README.md,1,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/doc.go#L55
+OnGoroutineSwitchPrintCurrentStack,repo,README.md,6,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/trace.go#L152
+OnGoroutineSwitchPrintStackHistory,repo,README.md,6,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/trace.go#L158
+Trace(),repo,README.md,11,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/trace.go#L42
+Tracer.Trace(),repo,README.md,1,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/doc.go#L59
+init(),repo,README.md,4,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/trace.go#L450
+"trace(""Label: my var=%v"", myvar)",repo,README.md,1,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/doc.go#L38
+trace.On(false),repo,README.md,1,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/doc.go#L49
+trace.On(true),repo,README.md,2,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/examples_test.go#L24
+trace.Trace(),repo,README.md,3,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/README.md,https://github.com/google/go-trace/blob/d282251f7009795fcbb7f164d92c013c198eae78/trace.go#L448

@@ -1,0 +1,13 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+ANY,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L147
+AS,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L146
+BASIS,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L146
+CONDITIONS,repo,README.md,.,4,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L6
+GitHub,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/CONTRIBUTING.md#L21
+IS,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L146
+KIND,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L147
+LICENSE,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L196
+OF,repo,README.md,.,3,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L147
+OR,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L147
+WARRANTIES,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L147
+WITHOUT,repo,README.md,.,2,-,-,-,-,-,https://github.com/google/pbvi/blob/4931579bac123ec7ec63dffa5f011b71a349c738/README.md,https://github.com/google/pbvi/blob/fe44c73d84da4a3103486d3bb75b660edae80e8b/LICENSE#L147

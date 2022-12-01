@@ -1,0 +1,7 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+POST,repo,README.md,1,1,1,1,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/README.md,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/registry/server/server.go#L45
+PROJECT,repo,README.md,-,4,4,4,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/README.md,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/script/Makefile.mk#L46
+PUT,repo,README.md,2,2,2,2,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/README.md,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/broker/server/server.go#L44
+instanceType,repo,README.md,4,4,4,4,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/README.md,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/registry/data/types/definitions.json#L11
+service_id,repo,README.md,4,4,4,4,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/README.md,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/registry/server/server.go#L46
+service_instances,repo,README.md,5,5,5,5,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/README.md,https://github.com/google/helm-broker/blob/5b9926ae691a660f9faa838bd72afdcae10ed39b/broker/server/server.go#L43

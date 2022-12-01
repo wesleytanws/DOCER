@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,doc_link,source_link
+SMILES,repo,README.md,.,.,.,.,.,.,13,13,13,13,13,13,16,https://github.com/google/smilesparser/blob/f36638b5ea47a58ad6687096da0f47afec7d3827/README.md,https://github.com/google/smilesparser/blob/08eeb066523c26bd186eb62473218026ad9a4754/test_smilesparser_rdkit.py#L26
+smilesparser.SMILES,repo,README.md,.,.,.,.,.,.,1,1,1,1,1,1,2,https://github.com/google/smilesparser/blob/f36638b5ea47a58ad6687096da0f47afec7d3827/README.md,https://github.com/google/smilesparser/blob/08eeb066523c26bd186eb62473218026ad9a4754/test_smilesparser_rdkit.py#L29

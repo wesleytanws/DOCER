@@ -1,0 +1,6 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+/Library/MOMenu/PlugIns,repo,README.md,.,.,-,-,-,-,1,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/README.md,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/MOMenu/GCMAppDelegate.m#L32
+CocoaPods,repo,README.md,.,.,-,-,-,-,1,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/README.md,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/MOMenu.xcodeproj/project.pbxproj#L248
+MOMenu,repo,README.md,.,.,73,73,73,73,72,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/README.md,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/Podfile#L1
+PlugIns,repo,README.md,.,.,-,-,-,-,1,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/README.md,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/MOMenu/GCMAppDelegate.m#L90
+nochecksignatures,repo,README.md,.,.,-,-,-,-,1,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/README.md,https://github.com/google/macops-MOMenu/blob/0360d7d481041c237c802b13a148570321c78be7/MOMenu/GCMAppDelegate.m#L64

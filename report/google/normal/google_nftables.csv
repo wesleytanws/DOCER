@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+API,repo,README.md,1,2,a285acebcad34aa3f1ea307bfa98d41b341091e6,1621007331,a346d51f53b35ca9ff996117bebc02638c23497a,1654983226,a285acebcad34aa3f1ea307bfa98d41b341091e6,1621007331,https://github.com/google/nftables/blob/a285acebcad34aa3f1ea307bfa98d41b341091e6/README.md,https://github.com/google/nftables/blob/a346d51f53b35ca9ff996117bebc02638c23497a/xt/xt.go#L24

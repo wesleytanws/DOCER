@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+AngularJS,repo,README.md,2,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/README.md,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/recommender/frontend.py#L14
+SDK,repo,README.md,7,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/README.md,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/test_runner.py#L18
+UI,repo,README.md,3,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/README.md,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/static/common/pageRecommendation/pageRecommendation.js#L132
+dev_appserver,repo,README.md,3,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/README.md,https://github.com/google/article-recommender/blob/ab5d8472702388550926505a3b99439bb9228cd6/test_runner.py#L60

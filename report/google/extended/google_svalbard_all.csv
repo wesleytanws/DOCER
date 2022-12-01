@@ -1,0 +1,8 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+CLIENT,repo,README.md,.,1,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/docs/SECURITY.md#L6
+CP,repo,README.md,.,5,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/docs/SECURITY.md#L9
+SMS,repo,README.md,.,17,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/server/go/svalbard_server.go#L154
+SV,repo,README.md,.,9,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/server/go/svalbard_server_test.go#L202
+SvalbardClientCli,repo,README.md,.,13,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/client/java/src/test/java/com/google/security/svalbard/client/SvalbardClientCli.java#L44
+XOR,repo,README.md,.,10,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/docs/SECURITY.md#L19
+sharing_test,repo,README.md,.,2,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/README.md,https://github.com/google/svalbard/blob/1bc7f2c6f9142b57833e49d1e294f01b1fedc1c7/client/testing/BUILD.bazel#L29

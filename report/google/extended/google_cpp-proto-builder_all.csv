@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+API,repo,README.md,8,https://github.com/google/cpp-proto-builder/blob/b23afd1b55e2c6c20a3d82e3285f794b1acb3faa/README.md,https://github.com/google/cpp-proto-builder/blob/b23afd1b55e2c6c20a3d82e3285f794b1acb3faa/proto_builder/proto_builder_config.cc#L140
+Descriptor,repo,README.md,62,https://github.com/google/cpp-proto-builder/blob/b23afd1b55e2c6c20a3d82e3285f794b1acb3faa/README.md,https://github.com/google/cpp-proto-builder/blob/b23afd1b55e2c6c20a3d82e3285f794b1acb3faa/proto_builder/util.h#L48
+ProtoBuilder,repo,README.md,37,https://github.com/google/cpp-proto-builder/blob/b23afd1b55e2c6c20a3d82e3285f794b1acb3faa/README.md,https://github.com/google/cpp-proto-builder/blob/b23afd1b55e2c6c20a3d82e3285f794b1acb3faa/proto_builder/tests/inherit_util.h#L8

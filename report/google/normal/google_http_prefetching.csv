@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+HTTP,repo,README.md,7,7,5d24bc39ad0726680deb24cd8411c7f6317c3704,1514400107,e50901128edfcaaa4e2f74e678b87852003ab897,1514401158,5d24bc39ad0726680deb24cd8411c7f6317c3704,1514400107,https://github.com/google/http_prefetching/blob/5d24bc39ad0726680deb24cd8411c7f6317c3704/README.md,https://github.com/google/http_prefetching/blob/e50901128edfcaaa4e2f74e678b87852003ab897/scheduler/numericpriorityscheduler.js#L18

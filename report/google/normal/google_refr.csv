@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+ReFr,repo,README.md,25,25,1db7e8cc53f9f245d0e24144c33599e980fa5d4c,1429663037,1db7e8cc53f9f245d0e24144c33599e980fa5d4c,1429663037,1db7e8cc53f9f245d0e24144c33599e980fa5d4c,1429663037,https://github.com/google/refr/blob/1db7e8cc53f9f245d0e24144c33599e980fa5d4c/README.md,https://github.com/google/refr/blob/1db7e8cc53f9f245d0e24144c33599e980fa5d4c/src/reranker/run-model.C#L748

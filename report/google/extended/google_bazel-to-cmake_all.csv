@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+BUILD,repo,README.md,2,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/README.md,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/bazel_to_cmake.py#L190
+CMakeLists.txt,repo,README.md,1,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/README.md,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/bazel_to_cmake.py#L16
+INTERFACE,repo,README.md,2,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/README.md,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/bazel_to_cmake.py#L66
+WORKSPACE,repo,README.md,1,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/README.md,https://github.com/google/bazel-to-cmake/blob/2d869eccdaa824a7836715a55b32d6ee2f5351a4/bazel_to_cmake.py#L266

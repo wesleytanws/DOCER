@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+InboundTraffic,wiki,Metrics-and-Monitoring.md,1,0,adf007dadc1b5e4185c0fc088c7cde7d235feff1,1573141237,01e5e9c2c3fa1cf7a9747148dca22d59ff9839b6,1655419470,b28b61cd05266524f84ca0ee6fce9f4a637081cc,1573127417,https://github.com/ethereum/go-ethereum/wiki/Metrics-and-Monitoring/b28b61cd05266524f84ca0ee6fce9f4a637081cc,https://github.com/ethereum/go-ethereum/blob/adf007dadc1b5e4185c0fc088c7cde7d235feff1/p2p/discv5/metrics.go#L22

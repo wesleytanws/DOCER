@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+CLI,repo,README.md,-,-,-,-,-,2,https://github.com/google/kf/blob/83515a6a85f1654c89663fbed55f5090e71a68e0/README.md,https://github.com/google/kf/blob/83515a6a85f1654c89663fbed55f5090e71a68e0/spring-cloud-config-server/mvnw.cmd#L157
+CLI,wiki,Roadmap.md,0,0,0,2,2,2,https://github.com/google/kf/wiki/Roadmap/a19c681bc24e8cc4d7917318f9d1073beeccadbe,https://github.com/google/kf/blob/83515a6a85f1654c89663fbed55f5090e71a68e0/spring-cloud-config-server/mvnw.cmd#L157
+kf,wiki,Roadmap.md,1,1,4,7,7,7,https://github.com/google/kf/wiki/Roadmap/a19c681bc24e8cc4d7917318f9d1073beeccadbe,https://github.com/google/kf/blob/83515a6a85f1654c89663fbed55f5090e71a68e0/spring-cloud-config-server/src/test/java/dev/kf/example/configserver/ConfigserverApplicationTests.java#L15
+scale,wiki,Roadmap.md,0,0,10,10,10,10,https://github.com/google/kf/wiki/Roadmap/a19c681bc24e8cc4d7917318f9d1073beeccadbe,https://github.com/google/kf/blob/83515a6a85f1654c89663fbed55f5090e71a68e0/dashboards/dashboard-template.json#L30

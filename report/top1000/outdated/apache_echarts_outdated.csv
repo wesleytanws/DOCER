@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+npm:zrender,wiki,How-to-setup-the-dev-environment.md,2,0,ddc57f46057cc9716b599e4a921e1d2855088d57,1643075629,f4e7864291aeba9abdc7192f5558dc7b3d8f8611,1655646016,8d00389b40bc286678195c90e2c25cb01a5f5672,1642569935,https://github.com/apache/echarts/wiki/How-to-setup-the-dev-environment/8d00389b40bc286678195c90e2c25cb01a5f5672,https://github.com/apache/echarts/blob/ddc57f46057cc9716b599e4a921e1d2855088d57/package.json#L67

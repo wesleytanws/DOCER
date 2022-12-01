@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+README,repo,README.md,1,1,ac72760d35f26e2a8f587356dc98770e851f03c3,1625194727,72ad8a4a851c75152c700283fbc4f58450b083af,1649310837,ac72760d35f26e2a8f587356dc98770e851f03c3,1625194727,https://github.com/google/fractribution/blob/ac72760d35f26e2a8f587356dc98770e851f03c3/README.md,https://github.com/google/fractribution/blob/72ad8a4a851c75152c700283fbc4f58450b083af/py/main.py#L80

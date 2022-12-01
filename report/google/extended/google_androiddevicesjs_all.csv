@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,doc_link,source_link
+NOTE,repo,README.md,-,-,-,-,-,-,1,1,https://github.com/google/androiddevicesjs/blob/9d07a43940b049612355f8dda6345dc58065207f/README.md,https://github.com/google/androiddevicesjs/blob/8fcc89e97d0fa15371b7b52f64e9b72ca3d06b2b/common/adb/adb_stream.ts#L30
+websocket_adb_client_stream,repo,README.md,-,-,-,-,-,-,1,1,https://github.com/google/androiddevicesjs/blob/9d07a43940b049612355f8dda6345dc58065207f/README.md,https://github.com/google/androiddevicesjs/blob/8fcc89e97d0fa15371b7b52f64e9b72ca3d06b2b/common/adb/client/websocket/BUILD.bazel#L8

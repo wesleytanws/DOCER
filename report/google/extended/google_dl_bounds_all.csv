@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+collect_results,repo,README.md,1,2,https://github.com/google/dl_bounds/blob/b38fbd73f30d2fd8d1b57ad8706c07a223689365/README.md,https://github.com/google/dl_bounds/blob/b38fbd73f30d2fd8d1b57ad8706c07a223689365/dl_bounds/src/eval.py#L85
+mnist_demo,repo,README.md,-,1,https://github.com/google/dl_bounds/blob/b38fbd73f30d2fd8d1b57ad8706c07a223689365/README.md,https://github.com/google/dl_bounds/blob/b38fbd73f30d2fd8d1b57ad8706c07a223689365/dl_bounds/bin/mnist_demo.sh#L29

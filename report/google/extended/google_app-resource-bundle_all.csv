@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,doc_link,source_link
+ARB,repo,README.md,.,.,.,.,23,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/README.md,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/lib/arbplural.js#L18
+JSON,repo,README.md,.,.,.,.,4,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/README.md,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/arb_extractor/src/main/java/org/arb/extractor/ResourceExtractor.java#L124
+arb_editor,repo,README.md,.,.,.,.,137,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/README.md,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/arb_editor/run_demo.sh#L3
+third_party,repo,README.md,.,.,.,.,17,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/README.md,https://github.com/google/app-resource-bundle/blob/c93579d70b8a0a6dff12c6a113cb74b9395c218d/test/arbplural_test.html#L6

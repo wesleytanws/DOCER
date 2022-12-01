@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,doc_link,source_link
+DXT,repo,README.md,7,7,7,7,7,https://github.com/google/image-compression/blob/8cbd4427a10e47ac0379156d0451846372cb56ab/README.md,https://github.com/google/image-compression/blob/eafcd805a2ee6af9937f62e316b1c59c7a63b907/image_compression/public/dxtc_compressor.h#L20
+ETC,repo,README.md,12,12,12,12,12,https://github.com/google/image-compression/blob/8cbd4427a10e47ac0379156d0451846372cb56ab/README.md,https://github.com/google/image-compression/blob/eafcd805a2ee6af9937f62e316b1c59c7a63b907/image_compression/public/etc_compressor.h#L15
+PVRTC,repo,README.md,10,10,10,10,10,https://github.com/google/image-compression/blob/8cbd4427a10e47ac0379156d0451846372cb56ab/README.md,https://github.com/google/image-compression/blob/eafcd805a2ee6af9937f62e316b1c59c7a63b907/image_compression/public/pvrtc_compressor.h#L15

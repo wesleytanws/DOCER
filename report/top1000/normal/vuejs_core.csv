@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+MIT,repo,README.md,42,44,4e7b36f5c3ee72cb9554982dd174f1989d5488f6,1651538790,25f7a16a6eccbfa8d857977dcf1f23fb36b830b5,1655089575,4e7b36f5c3ee72cb9554982dd174f1989d5488f6,1651538790,https://github.com/vuejs/core/blob/4e7b36f5c3ee72cb9554982dd174f1989d5488f6/README.md,https://github.com/vuejs/core/blob/25f7a16a6eccbfa8d857977dcf1f23fb36b830b5/scripts/bootstrap.js#L41

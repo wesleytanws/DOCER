@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+FAQ,repo,README.md,2,0,a3543081de387d21f923f6da4d73555e83e3f3b0,1645682151,367d977409547d62713d15b59dec50f0bf1228d5,1654472228,a3543081de387d21f923f6da4d73555e83e3f3b0,1645682151,https://github.com/google/osv/blob/a3543081de387d21f923f6da4d73555e83e3f3b0/README.md,https://github.com/google/osv/blob/a3543081de387d21f923f6da4d73555e83e3f3b0/gcp/appengine/frontend/src/components/Home.vue#L97

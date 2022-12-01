@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+JSON,repo,README.md,18,19,df354d340f728ddbe03d883ad69d59f8faed41c2,1640942630,0b2f027f515bb4071b85a54eed17fd2742af6f2e,1655245920,df354d340f728ddbe03d883ad69d59f8faed41c2,1640942630,https://github.com/google/aukera/blob/df354d340f728ddbe03d883ad69d59f8faed41c2/README.md,https://github.com/google/aukera/blob/0b2f027f515bb4071b85a54eed17fd2742af6f2e/window/window_test.go#L38

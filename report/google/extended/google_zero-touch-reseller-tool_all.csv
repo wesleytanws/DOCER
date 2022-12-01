@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+API,repo,README.md,4,4,4,https://github.com/google/zero-touch-reseller-tool/blob/07bc191b65e23c0fb1987a5374601abdfaf5c859/README.md,https://github.com/google/zero-touch-reseller-tool/blob/07bc191b65e23c0fb1987a5374601abdfaf5c859/app/src/main/res/values/strings.xml#L57
+ID,repo,README.md,-,18,18,https://github.com/google/zero-touch-reseller-tool/blob/07bc191b65e23c0fb1987a5374601abdfaf5c859/README.md,https://github.com/google/zero-touch-reseller-tool/blob/07bc191b65e23c0fb1987a5374601abdfaf5c859/app/src/main/res/values/strings.xml#L14
+JSON,repo,README.md,2,2,2,https://github.com/google/zero-touch-reseller-tool/blob/07bc191b65e23c0fb1987a5374601abdfaf5c859/README.md,https://github.com/google/zero-touch-reseller-tool/blob/07bc191b65e23c0fb1987a5374601abdfaf5c859/app/src/main/res/values/strings.xml#L13

@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,doc_link,source_link
+BUILD,repo,README.md,46,46,46,65,63,https://github.com/google/cabal2bazel/blob/c208bf179c8e820b0733a4472a5825c4f86e8e60/README.md,https://github.com/google/cabal2bazel/blob/2292ddf8f99864dfe18b247ddfec3942c09ea565/third_party/haskell/ghc/BUILD#L3
+NOTE,repo,README.md,4,4,4,3,3,https://github.com/google/cabal2bazel/blob/c208bf179c8e820b0733a4472a5825c4f86e8e60/README.md,https://github.com/google/cabal2bazel/blob/2292ddf8f99864dfe18b247ddfec3942c09ea565/bzl/tests/ffi/BUILD#L111
+third_party,repo,README.md,58,58,58,91,83,https://github.com/google/cabal2bazel/blob/c208bf179c8e820b0733a4472a5825c4f86e8e60/README.md,https://github.com/google/cabal2bazel/blob/2292ddf8f99864dfe18b247ddfec3942c09ea565/third_party/haskell/ghc/versions.bzl#L13

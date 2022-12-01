@@ -1,0 +1,14 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+CONTRIBUTING,repo,README.md,-,1,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,code_element is a file name
+DB,repo,README.md,-,2,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L19
+LICENSE,repo,README.md,-,3,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L7
+SQLite,repo,README.md,-,1,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L19
+UA,repo,README.md,-,2,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L18
+URL,repo,README.md,-,5,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L19
+form_factor,repo,README.md,-,2,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.sql#L1
+redirect_chain,repo,README.md,-,6,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L96
+request_made_on,repo,README.md,-,1,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/request-test.sql#L3
+response_body_sha256sum,repo,README.md,-,2,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.py#L103
+ua_key,repo,README.md,-,13,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.sql#L1
+ua_val,repo,README.md,-,6,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.sql#L1
+user_agents,repo,README.md,-,4,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/README.md,https://github.com/google/request-test/blob/7918f5da8f81222efabf04d920831454f4e262a9/uatest.sql#L1

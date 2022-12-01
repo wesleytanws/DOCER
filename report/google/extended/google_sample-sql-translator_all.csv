@@ -1,0 +1,6 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,doc_link,source_link
+AST,repo,README.md,2,2,2,2,https://github.com/google/sample-sql-translator/blob/15d876d130ad257b2c23c10882bb0cc5d95c8a7e/README.md,https://github.com/google/sample-sql-translator/blob/35901fb269105b977ada8e0a6c159869ca58a3ca/sql_parser/types.py#L18
+CASE,repo,README.md,604,604,604,604,https://github.com/google/sample-sql-translator/blob/15d876d130ad257b2c23c10882bb0cc5d95c8a7e/README.md,https://github.com/google/sample-sql-translator/blob/35901fb269105b977ada8e0a6c159869ca58a3ca/sql_rewrite/bigquery_cleanup.py#L31
+IF(),repo,README.md,1,1,1,1,https://github.com/google/sample-sql-translator/blob/15d876d130ad257b2c23c10882bb0cc5d95c8a7e/README.md,https://github.com/google/sample-sql-translator/blob/35901fb269105b977ada8e0a6c159869ca58a3ca/sql_rewrite/bigquery_cleanup.py#L31
+SQL,repo,README.md,30,30,30,30,https://github.com/google/sample-sql-translator/blob/15d876d130ad257b2c23c10882bb0cc5d95c8a7e/README.md,https://github.com/google/sample-sql-translator/blob/35901fb269105b977ada8e0a6c159869ca58a3ca/sql_parser/types.py#L16
+sql_parser,repo,README.md,28,28,28,28,https://github.com/google/sample-sql-translator/blob/15d876d130ad257b2c23c10882bb0cc5d95c8a7e/README.md,https://github.com/google/sample-sql-translator/blob/35901fb269105b977ada8e0a6c159869ca58a3ca/sql_rewrite/stats.py#L19

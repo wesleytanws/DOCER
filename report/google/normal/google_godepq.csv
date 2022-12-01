@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+path(s),repo,README.md,1,1,2c635fd1e5fecec0bf4787422ca5c9441348123f,1556745771,2c635fd1e5fecec0bf4787422ca5c9441348123f,1556745771,2c635fd1e5fecec0bf4787422ca5c9441348123f,1556745771,https://github.com/google/godepq/blob/2c635fd1e5fecec0bf4787422ca5c9441348123f/README.md,https://github.com/google/godepq/blob/2c635fd1e5fecec0bf4787422ca5c9441348123f/godepq.go#L32

@@ -1,0 +1,15 @@
+code_element,page_type,page_name,rev_1,rev_2,doc_link,source_link
+ANY,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L147
+API,repo,README.md,-,3,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/gpu-runtime.cc#L677
+AS,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L146
+BASIS,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L146
+CONDITIONS,repo,README.md,4,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L6
+CUDA,repo,README.md,-,15,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/gpu-runtime.cc#L200
+GitHub,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/docs/contributing.md#L21
+IS,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L146
+KIND,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L147
+LICENSE,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L196
+OF,repo,README.md,3,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L147
+OR,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L147
+WARRANTIES,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L147
+WITHOUT,repo,README.md,2,-,https://github.com/google/gpu-runtime/blob/b34c924c33045edd1d2837b92aea95f764b0c89e/README.md,https://github.com/google/gpu-runtime/blob/08778b79bcd8f72ad649260e96d2c979491c1bfb/LICENSE#L147

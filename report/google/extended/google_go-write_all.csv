@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+Remove(t.Name(),repo,README.md,1,1,1,1,1,-,https://github.com/google/go-write/blob/56629a6b25426c4cbdcf1e74b0f54e5404d30333/README.md,https://github.com/google/go-write/blob/885d265604c91907e81b746bc37c7971d9f4a7a2/tempfile.go#L96
+TMPDIR,repo,README.md,18,18,18,18,18,-,https://github.com/google/go-write/blob/56629a6b25426c4cbdcf1e74b0f54e5404d30333/README.md,https://github.com/google/go-write/blob/885d265604c91907e81b746bc37c7971d9f4a7a2/tempfile_linux_test.go#L28
+fsync,repo,README.md,2,2,2,2,2,-,https://github.com/google/go-write/blob/56629a6b25426c4cbdcf1e74b0f54e5404d30333/README.md,https://github.com/google/go-write/blob/885d265604c91907e81b746bc37c7971d9f4a7a2/tempfile.go#L108
+write,repo,README.md,14,15,15,15,16,-,https://github.com/google/go-write/blob/56629a6b25426c4cbdcf1e74b0f54e5404d30333/README.md,https://github.com/google/go-write/blob/885d265604c91907e81b746bc37c7971d9f4a7a2/tempfile_linux_test.go#L17

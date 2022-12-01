@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+CI,repo,README.md,2,2,696318280d5eb6d5b3609848cf3112ba01b56f88,1632110594,e0d5467ecf7457dbbbfa5e26f443f61b21223148,1635919372,696318280d5eb6d5b3609848cf3112ba01b56f88,1632110594,https://github.com/google/hs-collate/blob/696318280d5eb6d5b3609848cf3112ba01b56f88/README.md,https://github.com/google/hs-collate/blob/e0d5467ecf7457dbbbfa5e26f443f61b21223148/.github/workflows/stack-ci.yml#L15

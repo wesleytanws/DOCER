@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+NOT,repo,README.md,.,0,1,https://github.com/google/safevarargs/blob/b97786e7aeb436e4788e990ccef30fc36c1261bf/README.md,https://github.com/google/safevarargs/blob/a691fec382a719cd9e9554b34d72ac6c22cffb50/src/main/java/java/lang/SafeVarargs.java#L30
+SafeVarargs,repo,README.md,.,0,3,https://github.com/google/safevarargs/blob/b97786e7aeb436e4788e990ccef30fc36c1261bf/README.md,https://github.com/google/safevarargs/blob/a691fec382a719cd9e9554b34d72ac6c22cffb50/src/main/java/java/lang/SafeVarargs.java#L28

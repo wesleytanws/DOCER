@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+VAM,repo,README.md,2,0,fb05b81efdcaa24697f933a40f3e8dd257b678dd,1393466187,80b47c5f636c0ed0915af378b47428a83346a699,1655465771,fb05b81efdcaa24697f933a40f3e8dd257b678dd,1393466187,https://github.com/google/vim-maktaba/blob/fb05b81efdcaa24697f933a40f3e8dd257b678dd/README.md,https://github.com/google/vim-maktaba/blob/fb05b81efdcaa24697f933a40f3e8dd257b678dd/autoload/maktaba/plugin.vim#L147

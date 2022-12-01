@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,doc_link,source_link
+USB,repo,README.md,33,33,33,33,33,33,33,36,36,36,36,36,36,https://github.com/google/usbinfo/blob/7a6c3020e0489a67923018941ac7490e06072e1b/README.md,https://github.com/google/usbinfo/blob/6445de71313e4c5ac17d83e3d82d07dde508cb79/usbinfo/darwin.py#L31
+USBInfo,repo,README.md,4,4,4,4,4,4,4,4,4,4,4,4,4,https://github.com/google/usbinfo/blob/7a6c3020e0489a67923018941ac7490e06072e1b/README.md,https://github.com/google/usbinfo/blob/6445de71313e4c5ac17d83e3d82d07dde508cb79/doc/source/index.rst#L1

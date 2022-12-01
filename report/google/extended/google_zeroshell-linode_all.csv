@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+1GB,repo,README.md,1,https://github.com/google/zeroshell-linode/blob/00170ab56bd293497bcc51ce7e72502ffaac9f29/README.md,https://github.com/google/zeroshell-linode/blob/00170ab56bd293497bcc51ce7e72502ffaac9f29/install.sh#L18
+IP,repo,README.md,1,https://github.com/google/zeroshell-linode/blob/00170ab56bd293497bcc51ce7e72502ffaac9f29/README.md,https://github.com/google/zeroshell-linode/blob/00170ab56bd293497bcc51ce7e72502ffaac9f29/zeroshell.kernel.config#L842
+ZeroShell,repo,README.md,5,https://github.com/google/zeroshell-linode/blob/00170ab56bd293497bcc51ce7e72502ffaac9f29/README.md,https://github.com/google/zeroshell-linode/blob/00170ab56bd293497bcc51ce7e72502ffaac9f29/install.sh#L17

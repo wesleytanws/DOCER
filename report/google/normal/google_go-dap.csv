@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+DAP,repo,README.md,16,18,2b8a908a4b366874c3f0661e8742fdeb688f3cda,1630414178,b50237978ea61be63247ca438872c246454dd521,1631824643,2b8a908a4b366874c3f0661e8742fdeb688f3cda,1630414178,https://github.com/google/go-dap/blob/2b8a908a4b366874c3f0661e8742fdeb688f3cda/README.md,https://github.com/google/go-dap/blob/b50237978ea61be63247ca438872c246454dd521/schematypes.go#L16

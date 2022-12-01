@@ -1,0 +1,11 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+Allow,repo,README.md,-,-,-,-,-,-,-,2,2,2,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay.go#L159
+Allow(),repo,README.md,-,-,-,-,-,-,-,2,2,2,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay.go#L159
+OK,repo,README.md,-,-,-,-,-,-,-,46,49,49,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay_test.go#L105
+Valid(),repo,README.md,-,-,-,-,-,-,-,23,24,24,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay_test.go#L24
+Validate,repo,README.md,-,-,-,-,-,-,-,2,2,2,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay.go#L96
+"Validate(ok, func()",repo,README.md,-,-,-,-,-,-,-,4,4,4,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay.go#L180
+Verify,repo,README.md,-,-,-,-,-,-,-,8,9,9,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay.go#L36
+Verify(),repo,README.md,-,-,-,-,-,-,-,2,2,2,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay.go#L126
+func(),repo,README.md,-,-,-,-,-,-,-,8,8,8,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay_test.go#L28
+okay,repo,README.md,-,-,-,-,-,-,-,3,3,3,https://github.com/google/okay/blob/b14d5f71ad11d8ab6f50cd54f836b14b9d183e1d/README.md,https://github.com/google/okay/blob/0c60c5b1ec335fe09d8173ee6e9721dc3c1f92d6/okay_test.go#L15

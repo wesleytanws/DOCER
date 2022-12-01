@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+UDP,wiki,QUIC.md,1,0,a3bdc22234b75e9420f8810918072fa34732ffb7,1586561498,0b6f7643569690b9a3defe989fb2e0c2607215ec,1655411291,14e45f86c8e5864da5c792ae325d24b0ec410973,1586535505,https://github.com/caddyserver/caddy/wiki/QUIC/14e45f86c8e5864da5c792ae325d24b0ec410973,https://github.com/caddyserver/caddy/blob/a3bdc22234b75e9420f8810918072fa34732ffb7/modules/caddyhttp/app.go#L326

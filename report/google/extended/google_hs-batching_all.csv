@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,rev_14,rev_15,rev_16,rev_17,rev_18,doc_link,source_link
+CI,repo,README.md,-,-,-,-,-,-,-,-,-,-,-,2,2,2,2,2,2,2,https://github.com/google/hs-batching/blob/6258b4380b78a45ffabaf917d61d3d976c931657/README.md,https://github.com/google/hs-batching/blob/587e534e75564247c74480c47e2f78c4d7b03480/.github/workflows/stack-ci.yml#L15
+runBatching,repo,README.md,4,4,4,7,7,7,8,8,8,8,8,8,8,8,8,8,8,8,https://github.com/google/hs-batching/blob/6258b4380b78a45ffabaf917d61d3d976c931657/README.md,https://github.com/google/hs-batching/blob/587e534e75564247c74480c47e2f78c4d7b03480/test/Main.hs#L46
+runIdentity,repo,README.md,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,https://github.com/google/hs-batching/blob/6258b4380b78a45ffabaf917d61d3d976c931657/README.md,https://github.com/google/hs-batching/blob/587e534e75564247c74480c47e2f78c4d7b03480/src/Control/Batching.hs#L258

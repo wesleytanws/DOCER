@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+iOS,repo,README.md,1,0,5eafa8b247608545010556e500b09ee70b054418,1556024162,5f30a62ceae1a6f00b08e973d0e882a980925cdf,1561385916,5eafa8b247608545010556e500b09ee70b054418,1556024162,https://github.com/google/startup-os/blob/5eafa8b247608545010556e500b09ee70b054418/README.md,https://github.com/google/startup-os/blob/5eafa8b247608545010556e500b09ee70b054418/tools/reviewer/webapp/src/polyfills.ts#L14

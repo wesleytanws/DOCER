@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+GitHub,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/vapso/blob/dab6cf056a697bbc9e448b7f821350fee9854523/README.md,https://github.com/google/vapso/blob/8aa9ac715abe233f8a1b1c6950c3ebcf280669dd/CONTRIBUTING.md#L21
+UI,repo,README.md,0,0,1,1,1,1,1,https://github.com/google/vapso/blob/dab6cf056a697bbc9e448b7f821350fee9854523/README.md,https://github.com/google/vapso/blob/8aa9ac715abe233f8a1b1c6950c3ebcf280669dd/src/index.js#L90
+color_mixer,repo,README.md,1,1,2,2,2,2,2,https://github.com/google/vapso/blob/dab6cf056a697bbc9e448b7f821350fee9854523/README.md,https://github.com/google/vapso/blob/8aa9ac715abe233f8a1b1c6950c3ebcf280669dd/src/main.html#L81
+jQuery,repo,README.md,1,1,2,2,2,2,2,https://github.com/google/vapso/blob/dab6cf056a697bbc9e448b7f821350fee9854523/README.md,https://github.com/google/vapso/blob/8aa9ac715abe233f8a1b1c6950c3ebcf280669dd/src/main.js#L495

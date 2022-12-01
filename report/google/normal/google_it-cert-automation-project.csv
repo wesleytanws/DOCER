@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+VM,repo,README.md,9,9,f327fb1907ab41d8b2fb2f82603818ef56e176fa,1585660401,85e14928a50f327d8f6a070aa8230e7695d27143,1585660513,f327fb1907ab41d8b2fb2f82603818ef56e176fa,1585660401,https://github.com/google/it-cert-automation-project/blob/f327fb1907ab41d8b2fb2f82603818ef56e176fa/README.md,https://github.com/google/it-cert-automation-project/blob/85e14928a50f327d8f6a070aa8230e7695d27143/Part4/setup.sh#L18

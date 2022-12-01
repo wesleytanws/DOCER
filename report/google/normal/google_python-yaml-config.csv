@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+YAML,repo,README.md,3,2,bf8e5e3811c4f63d77e76acd28be2e46bdc49bb8,1542035784,ed6573b5f1d71dfddd7868ef802bd9fa7136f965,1542738571,bf8e5e3811c4f63d77e76acd28be2e46bdc49bb8,1542035784,https://github.com/google/python-yaml-config/blob/bf8e5e3811c4f63d77e76acd28be2e46bdc49bb8/README.md,https://github.com/google/python-yaml-config/blob/ed6573b5f1d71dfddd7868ef802bd9fa7136f965/yaml_config_loader/config.py#L37

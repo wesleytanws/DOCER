@@ -1,0 +1,7 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+CAB,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/go-cabfile/blob/b7861188b89a5c5e946b746486f26722167868dc/README.md,https://github.com/google/go-cabfile/blob/76539d0b2da53cddfe8ca24ddef8e7c77a5a652c/cabfile/cabfile.go#L19
+LICENSE,repo,README.md,4,4,6,6,6,6,6,https://github.com/google/go-cabfile/blob/b7861188b89a5c5e946b746486f26722167868dc/README.md,https://github.com/google/go-cabfile/blob/76539d0b2da53cddfe8ca24ddef8e7c77a5a652c/lvfscab/lvfscab_test.go#L7
+LVFS,repo,README.md,3,3,5,6,7,7,7,https://github.com/google/go-cabfile/blob/b7861188b89a5c5e946b746486f26722167868dc/README.md,https://github.com/google/go-cabfile/blob/76539d0b2da53cddfe8ca24ddef8e7c77a5a652c/lvfscab/lvfscab.go#L15
+MCI,repo,README.md,4,4,4,4,4,4,4,https://github.com/google/go-cabfile/blob/b7861188b89a5c5e946b746486f26722167868dc/README.md,https://github.com/google/go-cabfile/blob/76539d0b2da53cddfe8ca24ddef8e7c77a5a652c/cabfile/cabfile.go#L20
+MS,repo,README.md,8,8,8,8,8,8,8,https://github.com/google/go-cabfile/blob/b7861188b89a5c5e946b746486f26722167868dc/README.md,https://github.com/google/go-cabfile/blob/76539d0b2da53cddfe8ca24ddef8e7c77a5a652c/cabfile/cabfile.go#L19
+ZIP,repo,README.md,3,3,3,3,3,3,3,https://github.com/google/go-cabfile/blob/b7861188b89a5c5e946b746486f26722167868dc/README.md,https://github.com/google/go-cabfile/blob/76539d0b2da53cddfe8ca24ddef8e7c77a5a652c/cabfile/cabfile.go#L20

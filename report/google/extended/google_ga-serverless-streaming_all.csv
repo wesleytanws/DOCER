@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+BigQuery,repo,README.md,-,-,-,-,-,6,6,6,6,7,https://github.com/google/ga-serverless-streaming/blob/2f698df3dc1bc36d1ea80dee2e6e501b290120eb/README.md,https://github.com/google/ga-serverless-streaming/blob/2f698df3dc1bc36d1ea80dee2e6e501b290120eb/ga_stream_beam/modules/hit_schema.py#L31
+GCP,repo,README.md,-,-,-,-,-,1,1,1,1,1,https://github.com/google/ga-serverless-streaming/blob/2f698df3dc1bc36d1ea80dee2e6e501b290120eb/README.md,https://github.com/google/ga-serverless-streaming/blob/2f698df3dc1bc36d1ea80dee2e6e501b290120eb/deploy.sh#L23
+URL,repo,README.md,-,-,-,-,-,3,3,3,3,3,https://github.com/google/ga-serverless-streaming/blob/2f698df3dc1bc36d1ea80dee2e6e501b290120eb/README.md,https://github.com/google/ga-serverless-streaming/blob/2f698df3dc1bc36d1ea80dee2e6e501b290120eb/ga_stream_beam/modules/hit_schema.py#L152

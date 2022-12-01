@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,doc_link,source_link
+EPR,repo,README.md,9,9,9,9,9,9,16,16,16,https://github.com/google/epr/blob/d58924d598bc668aeac2df1cc83b9142b6887797/README.md,https://github.com/google/epr/blob/8f05300a3989ccc7e74f1da2d179064f902429dd/spec/epr.bs#L11
+HTTP,repo,README.md,2,2,2,2,2,2,6,6,6,https://github.com/google/epr/blob/d58924d598bc668aeac2df1cc83b9142b6887797/README.md,https://github.com/google/epr/blob/8f05300a3989ccc7e74f1da2d179064f902429dd/spec/epr.bs#L45
+TODO,repo,README.md,2,2,-,-,-,-,-,-,-,https://github.com/google/epr/blob/d58924d598bc668aeac2df1cc83b9142b6887797/README.md,https://github.com/google/epr/blob/ad6cf05ade858060d2e91489b08bee0b57cf177d/background.js#L67
+eprDataStatic,repo,README.md,4,4,4,4,4,4,4,4,4,https://github.com/google/epr/blob/d58924d598bc668aeac2df1cc83b9142b6887797/README.md,https://github.com/google/epr/blob/8f05300a3989ccc7e74f1da2d179064f902429dd/background.js#L18

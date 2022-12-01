@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+CPU,wiki,Threat-model.md,1,0,bd14d9607e742cd94b1a5af39e0f9e8c454b4a32,1418741819,de24f353bc2fe00f66ad6b3b0f643cd87cf1ca9d,1589825447,35e5f80f10900aa353128e1d20b7e8f5f39b2891,1418678665,https://github.com/google/end-to-end/wiki/Threat-model/35e5f80f10900aa353128e1d20b7e8f5f39b2891,https://github.com/google/end-to-end/blob/bd14d9607e742cd94b1a5af39e0f9e8c454b4a32/src/javascript/crypto/e2e/extension/ui/panels/prompt/encryptsign.js#L82

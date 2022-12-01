@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+exports.version,wiki,How-To-Deliver-a-Release.md,1,0,74804c1225f4ab75869922c450012f3f3e8da3cf,1319403104,1e8f112bd233dbffb1904d4dd2051780d81b0a22,1653226197,c397f6e5681fce59efe839795accebd7722587b3,1319388056,https://github.com/jaredhanson/passport/wiki/How-To-Deliver-a-Release/c397f6e5681fce59efe839795accebd7722587b3,https://github.com/jaredhanson/passport/blob/74804c1225f4ab75869922c450012f3f3e8da3cf/lib/passport/index.js#L246

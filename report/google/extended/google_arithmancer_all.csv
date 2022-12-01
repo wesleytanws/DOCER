@@ -1,0 +1,5 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,rev_14,doc_link,source_link
+LICENSE,repo,README.md,66,66,66,66,66,66,66,66,66,66,66,66,66,66,https://github.com/google/arithmancer/blob/efdccfcb6f4b9db97e6644367d0939bcb32eaf86/README.md,https://github.com/google/arithmancer/blob/444e88b74417c9d597c17d10b9c8b5427ebd8db5/vendor.py#L9
+NB,repo,README.md,1,1,1,1,1,1,1,-,-,-,-,-,-,-,https://github.com/google/arithmancer/blob/efdccfcb6f4b9db97e6644367d0939bcb32eaf86/README.md,https://github.com/google/arithmancer/blob/a39d1add948e5f1c3ef4996a3611b767da8b4908/third_party/werkzeug/testapp.py#L34
+SDK,repo,README.md,7,7,7,7,7,7,7,7,7,7,7,7,7,7,https://github.com/google/arithmancer/blob/efdccfcb6f4b9db97e6644367d0939bcb32eaf86/README.md,https://github.com/google/arithmancer/blob/444e88b74417c9d597c17d10b9c8b5427ebd8db5/runner.py#L18
+dev_appserver,repo,README.md,3,3,3,3,3,3,3,3,3,3,3,3,3,3,https://github.com/google/arithmancer/blob/efdccfcb6f4b9db97e6644367d0939bcb32eaf86/README.md,https://github.com/google/arithmancer/blob/444e88b74417c9d597c17d10b9c8b5427ebd8db5/runner.py#L60

@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+CocoaPods,repo,README.md,1,1,0e46a3b2d88bcd675a39dda818a57eeea7cd0261,1601916672,89347a7979565a37f478ebf9c40db2eae58e0556,1651781965,0e46a3b2d88bcd675a39dda818a57eeea7cd0261,1601916672,https://github.com/google/nanopb-podspec/blob/0e46a3b2d88bcd675a39dda818a57eeea7cd0261/README.md,https://github.com/google/nanopb-podspec/blob/89347a7979565a37f478ebf9c40db2eae58e0556/nanopb.podspec#L3

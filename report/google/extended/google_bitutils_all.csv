@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+bin,repo,README.md,5,https://github.com/google/bitutils/blob/ad9b171dc72179bf67c909b475cc277855677efa/README.md,https://github.com/google/bitutils/blob/ad9b171dc72179bf67c909b475cc277855677efa/hex#L1
+bitrule,repo,README.md,3,https://github.com/google/bitutils/blob/ad9b171dc72179bf67c909b475cc277855677efa/README.md,https://github.com/google/bitutils/blob/ad9b171dc72179bf67c909b475cc277855677efa/bitrule#L16
+hex,repo,README.md,2,https://github.com/google/bitutils/blob/ad9b171dc72179bf67c909b475cc277855677efa/README.md,https://github.com/google/bitutils/blob/ad9b171dc72179bf67c909b475cc277855677efa/hex#L21

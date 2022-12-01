@@ -1,0 +1,6 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,doc_link,source_link
+Node.bind(),repo,README.md,0,4,4,4,4,4,4,4,https://github.com/google/angular_node_bind.dart/blob/e4a554772fb89dee5be6ad07c425c05c647d951e/README.md,https://github.com/google/angular_node_bind.dart/blob/18fdf1357d0965a0a7abba5469aa389969989993/pubspec.yaml#L4
+NodeBindDirective,repo,README.md,-,7,7,7,7,7,7,7,https://github.com/google/angular_node_bind.dart/blob/e4a554772fb89dee5be6ad07c425c05c647d951e/README.md,https://github.com/google/angular_node_bind.dart/blob/18fdf1357d0965a0a7abba5469aa389969989993/lib/angular_node_bind.dart#L15
+lib/node_bind_directive.dart,repo,README.md,-,1,-,-,-,-,-,-,https://github.com/google/angular_node_bind.dart/blob/e4a554772fb89dee5be6ad07c425c05c647d951e/README.md,code_element is a file name
+node_bind,repo,README.md,-,3,3,3,3,3,3,3,https://github.com/google/angular_node_bind.dart/blob/e4a554772fb89dee5be6ad07c425c05c647d951e/README.md,https://github.com/google/angular_node_bind.dart/blob/18fdf1357d0965a0a7abba5469aa389969989993/example/node_bind.html#L13
+value,repo,README.md,-,28,28,28,28,28,28,21,https://github.com/google/angular_node_bind.dart/blob/e4a554772fb89dee5be6ad07c425c05c647d951e/README.md,https://github.com/google/angular_node_bind.dart/blob/18fdf1357d0965a0a7abba5469aa389969989993/lib/angular_node_bind.dart#L32

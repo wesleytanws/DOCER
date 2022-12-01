@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+ArrayList<String>,wiki,FAQ.md,17,0,8e7b38a48ce22f020431b1374079d73ac5a25071,1541528239,7e940b2c9774cf4b4d842b283abf142cc41d9124,1655326528,0847830fe8059f081f179a195d835a47407457be,1541440175,https://github.com/mybatis/mybatis-3/wiki/FAQ/0847830fe8059f081f179a195d835a47407457be,https://github.com/mybatis/mybatis-3/blob/8e7b38a48ce22f020431b1374079d73ac5a25071/src/test/java/org/apache/ibatis/submitted/valueinmap/ValueInMapTest.java#L65

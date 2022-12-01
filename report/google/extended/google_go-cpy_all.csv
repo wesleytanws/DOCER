@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,doc_link,source_link
+API,repo,README.md,-,2,2,https://github.com/google/go-cpy/blob/fbbbf260bfb09e65e79ff71ac025dbe56a44edef/README.md,https://github.com/google/go-cpy/blob/a9c933c0693252b14690827bde4f87db61906753/cpy/copy.go#L13
+WARNING,repo,README.md,-,1,1,https://github.com/google/go-cpy/blob/fbbbf260bfb09e65e79ff71ac025dbe56a44edef/README.md,https://github.com/google/go-cpy/blob/a9c933c0693252b14690827bde4f87db61906753/cpy/copy.go#L13

@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+dtraceStacksToPprof,repo,README.md,1,https://github.com/google/dtraceStacksToPprof/blob/5879fb352f21a07ee97078dd546e94de9b24948e/README.md,https://github.com/google/dtraceStacksToPprof/blob/5879fb352f21a07ee97078dd546e94de9b24948e/go.mod#L1
+profile.pb.gz,repo,README.md,1,https://github.com/google/dtraceStacksToPprof/blob/5879fb352f21a07ee97078dd546e94de9b24948e/README.md,https://github.com/google/dtraceStacksToPprof/blob/5879fb352f21a07ee97078dd546e94de9b24948e/main.go#L61

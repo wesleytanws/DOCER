@@ -1,0 +1,10 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,doc_link,source_link
+/launch.html,repo,README.md,1,1,1,1,1,1,1,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,code_element is a file name
+EHR,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/static/index.html#L161
+FHIR,repo,README.md,3,3,3,3,6,6,6,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/static/launch.html#L24
+ID,repo,README.md,3,3,3,3,3,3,3,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/settings.json-example#L5
+SMART,repo,README.md,2,2,2,2,2,2,2,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/static/launch.html#L19
+URL,repo,README.md,0,0,0,0,5,5,5,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/app.js#L54
+https://www.googleapis.com/auth/calendar.events,repo,README.md,1,1,1,1,1,1,1,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/user.js#L38
+settings.json,repo,README.md,3,3,3,4,8,8,8,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,https://github.com/google/meet-on-fhir/blob/c28836b5436643075145fabd11d845a4b408b571/user.js#L19
+settings.json-example,repo,README.md,1,1,1,1,1,1,1,https://github.com/google/meet-on-fhir/blob/fefe322a946deb0de334d1c652f90ae626d70b08/README.md,code_element is a file name

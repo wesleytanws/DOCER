@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,rev_11,rev_12,rev_13,doc_link,source_link
+build_python_zip,repo,README.md,-,0,0,0,0,0,0,0,0,1,1,1,1,https://github.com/google/git-rebaser/blob/411fe14a6f944ed1ee618b78cf1c5809d13d8fe2/README.md,https://github.com/google/git-rebaser/blob/741d5139653b9668b141e6b4eed0cdab1996a1e6/add_binary_to_git.sh#L4
+git_rebaser_main,repo,README.md,-,2,2,2,2,2,2,2,2,5,5,5,5,https://github.com/google/git-rebaser/blob/411fe14a6f944ed1ee618b78cf1c5809d13d8fe2/README.md,https://github.com/google/git-rebaser/blob/741d5139653b9668b141e6b4eed0cdab1996a1e6/add_binary_to_git.sh#L4

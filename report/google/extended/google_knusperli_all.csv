@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,doc_link,source_link
+DCT,repo,README.md,-,12,12,12,12,12,12,12,https://github.com/google/knusperli/blob/415439bb290f6377315a359b12d2ced147de1e5f/README.md,https://github.com/google/knusperli/blob/415439bb290f6377315a359b12d2ced147de1e5f/output_image.cc#L248
+JPEG,repo,README.md,1,1,1,1,1,1,1,1,https://github.com/google/knusperli/blob/415439bb290f6377315a359b12d2ced147de1e5f/README.md,https://github.com/google/knusperli/blob/415439bb290f6377315a359b12d2ced147de1e5f/jpeg_data.h#L91
+TODO,repo,README.md,-,5,5,5,5,-,-,-,https://github.com/google/knusperli/blob/415439bb290f6377315a359b12d2ced147de1e5f/README.md,https://github.com/google/knusperli/blob/0851314c19e391cd29b58dd6447b3834aa43096e/preprocess_downsample.cc#L310

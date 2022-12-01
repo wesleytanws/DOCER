@@ -1,0 +1,8 @@
+code_element,page_type,page_name,rev_1,doc_link,source_link
+DOM,repo,README.md,3,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/lib/dropzone-polyfill.js#L144
+MIME,repo,README.md,2,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/lib/dropzone-polyfill.js#L29
+WebKit,repo,README.md,2,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/lib/dropzone-polyfill.js#L141
+dropzone,repo,README.md,61,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/test/webkitdatazone.html#L3
+file:,repo,README.md,6,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/lib/dropzone-polyfill.js#L33
+file:text/plain,repo,README.md,3,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/test/file-non-match.html#L10
+webkitdropzone,repo,README.md,3,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/README.md,https://github.com/google/dropzone-polyfill/blob/75dc7af5aae99326da881c61bf01e680e571395d/test/webkitdatazone.html#L3

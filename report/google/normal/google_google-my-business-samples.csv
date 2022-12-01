@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+API,repo,README.md,11,19,7d546f75e77bf6356b7879a323e76831cd6b4313,1620643336,3d50607883946bdd0f922a38e1f91e2bbaef3067,1645068902,7d546f75e77bf6356b7879a323e76831cd6b4313,1620643336,https://github.com/google/google-my-business-samples/blob/7d546f75e77bf6356b7879a323e76831cd6b4313/README.md,https://github.com/google/google-my-business-samples/blob/3d50607883946bdd0f922a38e1f91e2bbaef3067/python/get_business_location_id.py#L25

@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+GCP,repo,README.md,-,.,0,0,0,2,2,2,3,3,https://github.com/google/outrigger/blob/f864b079c552589cf473873a31e800ab489b0619/README.md,https://github.com/google/outrigger/blob/06376931da0cd1c5dd9520a77c2a5ffefb1f71b8/trixWriter/TrixHelper.js#L23
+UX,repo,README.md,-,.,0,0,0,21,21,20,20,20,https://github.com/google/outrigger/blob/f864b079c552589cf473873a31e800ab489b0619/README.md,https://github.com/google/outrigger/blob/06376931da0cd1c5dd9520a77c2a5ffefb1f71b8/uxAutomation/ux-custom-config.js#L13

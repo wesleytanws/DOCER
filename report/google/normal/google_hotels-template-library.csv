@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+LICENSE,repo,README.md,21,21,27db48b2d2c4a385836333da75a593c73fe75bce,1636414488,8d29b1a2806d754fbb76f06ffda68e4f31f6b013,1649708122,27db48b2d2c4a385836333da75a593c73fe75bce,1636414488,https://github.com/google/hotels-template-library/blob/27db48b2d2c4a385836333da75a593c73fe75bce/README.md,https://github.com/google/hotels-template-library/blob/8d29b1a2806d754fbb76f06ffda68e4f31f6b013/synchronized_value/synchronized_value_test.cc#L7

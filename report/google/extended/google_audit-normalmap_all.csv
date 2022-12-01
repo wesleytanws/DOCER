@@ -1,0 +1,8 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,doc_link,source_link
+-7,repo,README.md,1,1,1,1,1,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/audit-normalmap.c#L129
+-8,repo,README.md,1,1,1,1,1,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/audit-normalmap.c#L129
+-c,repo,README.md,1,1,1,1,1,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/audit-normalmap.c#L129
+-o,repo,README.md,1,1,2,2,2,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/audit-normalmap.c#L129
+-y,repo,README.md,1,1,1,1,1,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/audit-normalmap.c#L129
+CONTRIBUTING.md,repo,README.md,1,1,1,1,1,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,code_element is a file name
+LICENSE,repo,README.md,3,3,6,6,6,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/README.md,https://github.com/google/audit-normalmap/blob/07b13e1d1b6597e68de77ad307afecbf7523ae9c/audit-normalmap.c#L8

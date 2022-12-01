@@ -1,0 +1,2 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_SHA_1,rev_timestamp_1,rev_SHA_2,rev_timestamp_2,doc_SHA,doc_timestamp,doc_link,source_link
+DCMAKE_BUILD_TYPE,repo,README.md,1,0,3842fdc5b596d1ea37ce1c1676fedc3d16f98f79,1566248251,ddf5e2bb92957dc8a12c5392f8495333d6844133,1633535843,3842fdc5b596d1ea37ce1c1676fedc3d16f98f79,1566248251,https://github.com/google/effcee/blob/3842fdc5b596d1ea37ce1c1676fedc3d16f98f79/README.md,https://github.com/google/effcee/blob/3842fdc5b596d1ea37ce1c1676fedc3d16f98f79/.travis.yml#L56

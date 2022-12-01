@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,doc_link,source_link
+gsrsup,repo,README.md,0,6,10,10,13,https://github.com/google/gsrsup/blob/add4f0914939d1f9ab894bfab02e3775f10af469/README.md,https://github.com/google/gsrsup/blob/fe480f5e29f212efd5b933475cc6e71fc5937f4d/log_test.cc#L23
+ninja,repo,README.md,-,4,5,5,5,https://github.com/google/gsrsup/blob/add4f0914939d1f9ab894bfab02e3775f10af469/README.md,https://github.com/google/gsrsup/blob/fe480f5e29f212efd5b933475cc6e71fc5937f4d/scripts/run_all_tests#L21

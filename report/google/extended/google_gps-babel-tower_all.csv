@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,rev_10,doc_link,source_link
+NLP,repo,README.md,-,2,2,2,2,2,2,2,2,2,https://github.com/google/gps-babel-tower/blob/150cfa2d3b084dba3f0c66c30719f1085290e815/README.md,https://github.com/google/gps-babel-tower/blob/0dde3396d83bb9d0e24c2dbb75b93adcdbe035a9/src/gps_babel_tower/tasks/translation/translation.py#L48
+examples,repo,README.md,-,5,5,5,5,5,5,5,5,5,https://github.com/google/gps-babel-tower/blob/150cfa2d3b084dba3f0c66c30719f1085290e815/README.md,https://github.com/google/gps-babel-tower/blob/0dde3396d83bb9d0e24c2dbb75b93adcdbe035a9/examples/sentiment.py#L18
+gps_babel_tower,repo,README.md,-,8,8,9,9,9,10,10,11,11,https://github.com/google/gps-babel-tower/blob/150cfa2d3b084dba3f0c66c30719f1085290e815/README.md,https://github.com/google/gps-babel-tower/blob/0dde3396d83bb9d0e24c2dbb75b93adcdbe035a9/tests/test_keyword_extraction.py#L18

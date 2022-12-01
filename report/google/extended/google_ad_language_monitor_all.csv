@@ -1,0 +1,3 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,doc_link,source_link
+AdLanguageMonitor,repo,README.md,-,2,2,2,2,2,https://github.com/google/ad_language_monitor/blob/47806ec3936db7cdf42c084b76be2c0007476cb0/README.md,https://github.com/google/ad_language_monitor/blob/53251035d97ef3694d0c8938d031b2fee329421c/package.json#L9
+JSON,repo,README.md,-,0,0,0,0,9,https://github.com/google/ad_language_monitor/blob/47806ec3936db7cdf42c084b76be2c0007476cb0/README.md,https://github.com/google/ad_language_monitor/blob/53251035d97ef3694d0c8938d031b2fee329421c/appsscript/src/lib.js#L23

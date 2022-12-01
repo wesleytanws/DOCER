@@ -1,0 +1,4 @@
+code_element,page_type,page_name,rev_1,rev_2,rev_3,rev_4,rev_5,rev_6,rev_7,rev_8,rev_9,doc_link,source_link
+API,repo,README.md,2,2,2,2,2,2,2,2,2,https://github.com/google/python-laurel/blob/1cca55935ce150ffee8064c355a32794ad026323/README.md,https://github.com/google/python-laurel/blob/76c703f10a1857dbe0a4cd2ef59f7be03a38efce/laurel/__init__.py#L25
+GE,repo,README.md,1,1,1,1,1,1,1,1,1,https://github.com/google/python-laurel/blob/1cca55935ce150ffee8064c355a32794ad026323/README.md,https://github.com/google/python-laurel/blob/76c703f10a1857dbe0a4cd2ef59f7be03a38efce/setup.py#L35
+supports_temperature,repo,README.md,1,1,1,1,1,1,1,1,1,https://github.com/google/python-laurel/blob/1cca55935ce150ffee8064c355a32794ad026323/README.md,https://github.com/google/python-laurel/blob/76c703f10a1857dbe0a4cd2ef59f7be03a38efce/laurel/__init__.py#L182
